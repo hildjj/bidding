@@ -1,0 +1,139 @@
+#+TITLE: Precision (hildebrand-2020)
+
+#+AUTHOR: Joe Hildebrand
+
+#+DESCRIPTION: Integrating different Precision sources into one place
+
+* Introduction
+
+This started from notes on
+"The Precision Bidding System in Bridge" by C.C. Wei (Edited by Alan Truscott),
+2nd Edition, 1973. (ISBN 0-486-21171-1)
+
+1C 16+HCP nothing about clubs
+  1D  one of:
+     a) Negative.  0--7 HCP, nothing about diamonds
+     b) Impossible Negative: 8+ HCP, 4441.  Jump in singleton next
+  1HS 8+ HCP. 5+!h/!s
+    2HS raise, asking
+      1step none of top three honors
+      2step 5!h/!s one of top three honors
+      3step 5!h/!s two of top three honors
+      4step 6+!h/!s one of top three honors
+      5step 6+!h/!s two of top three honors
+      6step all three of top honors
+        NewSuit asking
+          1step no control (xxx)
+          2step 3rd round countrol (xx or Qxx)
+          3step 2nd round control (x or Kx)
+          4step 1st round control (void or A)
+          5step AK or AQx
+            Rebid Asking which?
+              1step shortness
+              2step strength
+            NewSuit asking
+  1N 8--10 HCP, balanced
+  2CD 9+ hcp, 5+!c/!d
+  2HS 4--7 hcp, 6!h/!s (like weak 2)
+  2N 11--13 or 16+ hcp, balanced
+  3X 4--7 hcp, 7+ suit (like preempt)
+  3N 14--15, balanced
+1D 11--15, 4+!d
+  1HS 8+ hcp, 4+!h/!s
+  2C Unbalanced, not 4!h/!s
+  2D 11+ hcp, forcing to 3D
+  2HS forcing
+  2NT 16+ hcp, balanced
+  3C forcing
+  3D weak, 5!d
+  3HS splinter
+  3N strong raise 14+ hcp, no singleton/void
+  4C splinter
+1H 11--15, 5+!h
+  1S 8+ hcp, 4+!s
+  1N 8--10, balanced, forcing one round, not 4!s
+    2CD 3+!c/!d (often 3, sometimes 2)
+    2H rebid: 6+!h, min
+    2S reverse: max, 45xx
+    2N stop
+    3CD max, invites
+    3H max, 6+!h
+  2H 8-10, 3!h
+  2NT 16+ hcp, balanced
+  3H 10--11 total points usually 4!h, invites
+  3S splinter
+  3N strong raise 14+ hcp, no singleton/void
+  4CD splinter
+1S 11--15, 5+!s
+  1N 8--10, balanced, forcing one round
+    2CD 3+!c/!d (often 3, sometimes 2)
+    2H 4+!h
+    2S rebid: 6+!s, min
+    2N stop
+    3CDH max, invites
+    3S max, 6+!s
+  2S 8-10, 3!s
+  2NT 16+ hcp, balanced
+  3S 10--11 total points usually 4!s, invite
+  3N strong raise 14+ hcp, no singleton/voids
+  4CDH splinter
+1N  13--15, balanced
+  2C stayman
+  2D ->2!h
+  2H ->2!s
+  2S Minor suit stayman
+  2N ~10hcp, invite
+  3X 4441 short X, forcing (long single minor use MSS)
+  3N 11+ balanced no slam
+  4C Gerber
+  4D ->4!h stop
+  4H ->4!s stop
+2C  11--15 HCP. 6+!c OR 5+!c and 4!h/!s
+  2D  11+ hcp, forcing one round
+    2HS 11--13 hcp, 4!h/!s
+    2N 14--15, 6+!c, two side suits stopped
+    3C 11--13, 6+!c, usually one side suit stopped
+    3D xx56
+    3HS 14--15 hcp, 4!h/!s
+    3N 14--15, 6+!c, solid
+  2HS Weak, 6+!h/!s or 5+!h/!s with no clubs
+    3HS 15 HCP, 4!h/!s
+  2N ~11 hcp, invites 3N
+  3C 8--10 hcp, !c support
+2D  11-15 HCP. 4414ish. 3415, 4315, 4405 weak clubs.
+  2HS To play
+  2N Forcing
+    3C 3415 weak clubs (bid 2C with better clubs)
+    3D 4315 weak clubs (bid 2C with better clubs)
+    3H 11--13 HCP. 4414
+    3S 14--15 HCP. 4414
+    3N 14--15 HCP. 4414, A!d or K!d
+    4C 11--13 HCP, 4405
+    4D 14--15 HCP. 4405
+2HS Weak: 6--10 HCP, 6+!h/!s
+2N 22--23 hcp, balanced
+  3C stayman
+  3D ->3!h
+  3H ->3!s
+  3S Minor suit stayman
+  3N stop
+  4C Gerber (ew.  find something else)
+  4D ->4!h stop
+  4H ->4!s stop
+3N Gambling
+
+** Interference
+
+1C-(D)
+  P 0-7 hcp, WITH clubs
+  1D 0-7, no clubs
+  R 8+, both majors 44xx
+1C-(1X)
+  P 0-4 hcp
+  D 5-8 hcp, no 5 card suit
+  Other 5-8 hcp 5+X
+  1N 9+ Unbalanced
+  2X (cuebid) 9+ Balanced
+  2N 9-11 stopper in X
+  3X 9+ hcp, 4441 short X
+  3N 12-14 stopper in X
