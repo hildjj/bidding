@@ -12,8 +12,8 @@ This started from notes on
 
 1C 16+HCP nothing about clubs
   1D  one of:
-     Negative  0--7 HCP, nothing about diamonds
-     ImpossibleNegative 8+ HCP, 4441.  Jump in singleton next
+     a) Negative  0--7 HCP, nothing about diamonds
+     b) Impossible Negative 8+ HCP, 4441.  Jump in singleton next
   1HS 8+ HCP. 5+!h/!s
     2HS raise, asking
       1step none of top three honors

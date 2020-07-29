@@ -1,0 +1,9 @@
+To see the rendered version, go [here](https://hildjj.github.io/bidding/precision.htm).
+
+To develop:
+
+```sh
+(cd ..; git clone https://github.com/Kungsgeten/bml)
+npm install
+npm start
+```
