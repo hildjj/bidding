@@ -146,18 +146,64 @@ I like bidding over 1N and strong 1!c systems, at the beginner to
 intermediate level.  Many partnerships at that level haven't discussed
 what to do over any interference, including a double.  At a higher level,
 there's lots of interference, so everyone has a plan.  DONT may or may not
-be the right choice there, but it's a contender at least.
+be the right choice there, but it's a contender at least.  Another choice
+would be to use a different overall system over weak 1NT.
 
 Over 1!c, shift all of the responses down.
 
 (1N)-D single suited, at least KQ109xx
+  P convert to penalty.  I have entries and think I know what your suit is.
   2C relay
     P !c
     2DH !d/!h
     2S !s (stronger than 2S directly)
-  2X strong 6 card suit
-(1N)-2X 2-suited, this suit plus one higher.  5-5+
-  1step What's the other suit?
-    P that's it
-    X this
-(1N)-2S weaker than (1N)-D-2!c-2!s
+  2X strong 6 card suit of your own
+(1N)-2C 2-suited !c-(!d/!h/!s) 5-5+
+  2D What's the other suit?
+    P !d
+    2HS !h, !s
+      2N strong game invite in second suit
+  2N game invite, please name second suit (much more likely over weak NT)
+  3C support, continued disturbance
+(1N)-2D 2-suited !d-(!h/!s) 5-5+
+  2H What's the other suit?
+    P !h
+    2S !s
+      2N strong game invite in spades
+  2N game invite, please name second suit (much more likely over weak NT)
+  3C scrambling, long clubs
+  3D support, continued disturbance
+(1N)-2H 2-suited !h!s 5-5+
+  2S preference
+  2N game invite
+    3CD void
+    3H no thank you
+      3S preference, STOP
+    3S no thank you and my spade suit is a lot better.  STOP.
+(1N)-2S one-suited in spades, weaker than (1N)-D-2!c-2!s.  Think weak 2.
+(1N)-2N [please don't do this for now]
+(1N)-3X pre-emptive, 7+X
+
+Over interference:
+
+(1N)-D-(R)
+  P feel free to bid your suit next
+  X Natural
+
+(1N)-D-(2X)
+  D (of a natural bid) bid your other suit
+  D (of an artificial bid) lead directing
+  X Natural
+
+When used against us:
+
+1N-(D)
+  R headed for 3N
+  X systems on
+1N-(2C)
+  D stayman
+  X systems on
+1N-(2DS) treat as single-suit overall
+  D penalty
+1N-(2H)
+  X [needs work, after adding Lebensohl.  Use D for penalty for now]
