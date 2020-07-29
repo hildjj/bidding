@@ -4,12 +4,13 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "light-server -c .lightserverrc"
   },
   "keywords": [],
   "author": "Joe Hildebrand <joe-github@cursive.net>",
   "license": "MPL-2.0",
   "devDependencies": {
-    "light-server": "^2.7.0"
+    "light-server": "^2.8.0",
+    "pegjs": "^0.11.0-master.b7b87ea"
   }
 }

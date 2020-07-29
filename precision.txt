@@ -12,8 +12,8 @@ This started from notes on
 
 1C 16+HCP nothing about clubs
   1D  one of:
-     a) Negative.  0--7 HCP, nothing about diamonds
-     b) Impossible Negative: 8+ HCP, 4441.  Jump in singleton next
+     Negative  0--7 HCP, nothing about diamonds
+     ImpossibleNegative 8+ HCP, 4441.  Jump in singleton next
   1HS 8+ HCP. 5+!h/!s
     2HS raise, asking
       1step none of top three honors
@@ -137,3 +137,27 @@ This started from notes on
   2N 9-11 stopper in X
   3X 9+ hcp, 4441 short X
   3N 12-14 stopper in X
+
+** Overcalls
+
+*** DONT
+
+I like bidding over 1N and strong 1!c systems, at the beginner to
+intermediate level.  Many partnerships at that level haven't discussed
+what to do over any interference, including a double.  At a higher level,
+there's lots of interference, so everyone has a plan.  DONT may or may not
+be the right choice there, but it's a contender at least.
+
+Over 1!c, shift all of the responses down.
+
+(1N)-D single suited, at least KQ109xx
+  2C relay
+    P !c
+    2DH !d/!h
+    2S !s (stronger than 2S directly)
+  2X strong 6 card suit
+(1N)-2X 2-suited, this suit plus one higher.  5-5+
+  1step What's the other suit?
+    P that's it
+    X this
+(1N)-2S weaker than (1N)-D-2!c-2!s
