@@ -1,5 +1,7 @@
 #+TITLE: Precision (hildebrand-2020)
+
 #+AUTHOR: Joe Hildebrand
+
 #+DESCRIPTION: Integrating different Precision sources into one place
 
 * Introduction

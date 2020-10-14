@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "light-server -c .lightserverrc",
-    "build": "python3 ../bml/bml2html.py precision.txt"
+    "build": "python3 ../bml/bml2html.py precision.txt && python3 ../bml/bml2latex.py precision.txt && pdflatex -halt-on-error precision.tex"
   },
   "keywords": [],
   "author": "Joe Hildebrand <joe-github@cursive.net>",
