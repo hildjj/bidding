@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "light-server -c .lightserverrc"
+    "start": "light-server -c .lightserverrc",
+    "build": "python3 ../bml/bml2html.py precision.txt"
   },
   "keywords": [],
   "author": "Joe Hildebrand <joe-github@cursive.net>",
