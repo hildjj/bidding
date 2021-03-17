@@ -113,6 +113,12 @@ This started from notes on
     4C 11--13 HCP, 4405
     4D 14--15 HCP. 4405
 2HS Weak: 6--10 HCP, 6+!h/!s
+  2N Ogust
+    3C Weak Hand, Weak Suit
+    3D Weak Hand, Strong Suit
+    3H Strong Hand, Weak Suit
+    3S Strong Hand, Strong Suit
+    3N AKQ in original pre-empt suit
 2N 22--23 hcp, balanced
   3C stayman
   3D ->3!h
