@@ -10,8 +10,8 @@ This started from notes on
 "The Precision Bidding System in Bridge" by C.C. Wei (Edited by Alan Truscott),
 2nd Edition, 1973. (ISBN 0-486-21171-1)
 
-1C 16+HCP nothing about clubs
-  1D  one of:
+1C! 16+HCP nothing about clubs
+  1D!  one of:
      a) Negative  0--7 HCP, nothing about diamonds
      b) Impossible Negative 8+ HCP, 4441.  Jump in singleton next
   1HS 8+ HCP. 5+!h/!s
@@ -81,17 +81,43 @@ This started from notes on
   4CDH splinter
 1N  13--15, balanced
   2C Stayman
+    2H 4h, might have 4s
+      2S! 5+!s,4!h invitational
+      2N 4!s, invitational
   2D ->2!h
+    4N quantative
   2H ->2!s
-  2S ->3!c (correct to 3!d to play)
-  2N ~10hcp, invite
-  3X 4441 short X, forcing (long single minor use MSS)
+    4N quantative
+  2S! Range ask.  One of [10-11 balanced, 6+c weak, 6+c invitational+]
+    2N! min
+      3C for goodness sake stop here
+    3C! max
+      3!d!h!s (after either) shortness in the bid suit.  6+c.  Game force or better.
+      3N to play
+      4C invite for 5!c
+      4DHS 4+, slam try
+      4N quantative for 5!c/6!c/6N
+      5N quantitative for 6!c/6N/7!c/7N
+  2N! 6+!d, either to play or slam interest if bidding continues
+    3C! Good !d suit
+    3D! Average- !d
+      3HS (after either) shortness, game force
+      3N (after either) to play
+      4C (after either) shortness, game force
+      4D (after either) invite to 5!d
+      4HS (after either) 4+, slam try
+      4N (after either) quantitative for 5!d/6!d/6N
+      5N (after either) quantitative for 6!d/6N/7!d/7N
+  3X! splinter, game forcing
   3N 11+ balanced no slam
   4C Gerber
-  4D ->4!h stop
-  4H ->4!s stop
-2C  11--15 HCP. 6+!c OR 5+!c and 4!h/!s
-  2D  11+ hcp, forcing one round
+    4D 0 or 4 aces
+  4D ->4!h 6+!h
+    4N Blackwood
+  4H ->4!s 6+!s
+    4N Blackwood
+2C!  11--15 HCP. 6+!c OR 5+!c and 4!h/!s
+  2D!  11+ hcp, forcing one round
     2HS 11--13 hcp, 4!h/!s
     2N 14--15, 6+!c, two side suits stopped
     3C 11--13, 6+!c, usually one side suit stopped
@@ -102,7 +128,7 @@ This started from notes on
     3HS 15 HCP, 4!h/!s
   2N ~11 hcp, invites 3N
   3C 8--10 hcp, !c support
-2D  11-15 HCP. 4414ish. 3415, 4315, 4405 weak clubs.
+2D!  11-15 HCP. 4414ish. 3415, 4315, 4405 weak clubs.
   2HS To play
   2N Forcing
     3C 3415 weak clubs (bid 2C with better clubs)
