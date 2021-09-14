@@ -10,8 +10,8 @@ This started from notes on
 "The Precision Bidding System in Bridge" by C.C. Wei (Edited by Alan Truscott),
 2nd Edition, 1973. (ISBN 0-486-21171-1)
 
-1C 16+HCP nothing about clubs
-  1D  one of:
+1C! 16+HCP nothing about clubs
+  1D!  one of:
      a) Negative  0--7 HCP, nothing about diamonds
      b) Impossible Negative 8+ HCP, 4441.  Jump in singleton next
   1HS 8+ HCP. 5+!h/!s
@@ -116,8 +116,8 @@ This started from notes on
     4N Blackwood
   4H ->4!s 6+!s
     4N Blackwood
-2C  11--15 HCP. 6+!c OR 5+!c and 4!h/!s
-  2D  11+ hcp, forcing one round
+2C!  11--15 HCP. 6+!c OR 5+!c and 4!h/!s
+  2D!  11+ hcp, forcing one round
     2HS 11--13 hcp, 4!h/!s
     2N 14--15, 6+!c, two side suits stopped
     3C 11--13, 6+!c, usually one side suit stopped
@@ -128,7 +128,7 @@ This started from notes on
     3HS 15 HCP, 4!h/!s
   2N ~11 hcp, invites 3N
   3C 8--10 hcp, !c support
-2D  11-15 HCP. 4414ish. 3415, 4315, 4405 weak clubs.
+2D!  11-15 HCP. 4414ish. 3415, 4315, 4405 weak clubs.
   2HS To play
   2N Forcing
     3C 3415 weak clubs (bid 2C with better clubs)
