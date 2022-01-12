@@ -34,6 +34,7 @@ This started from notes on
             NewSuit asking
   1N 8--10 HCP, balanced
   2CD 9+ hcp, 5+!c/!d
+    Raises same as majors
   2HS 4--7 hcp, 6!h/!s (like weak 2)
   2N 11--13 or 16+ hcp, balanced
   3X 4--7 hcp, 7+ suit (like preempt)
@@ -85,9 +86,9 @@ This started from notes on
       2S! 5+!s,4!h invitational
       2N 4!s, invitational
   2D ->2!h
-    4N quantative
+    4N quantitative
   2H ->2!s
-    4N quantative
+    4N quantitative
   2S! Range ask.  One of [10-11 balanced, 6+c weak, 6+c invitational+]
     2N! min
       3C for goodness sake stop here
@@ -96,10 +97,11 @@ This started from notes on
       3N to play
       4C invite for 5!c
       4DHS 4+, slam try
-      4N quantative for 5!c/6!c/6N
+      4N quantitative for 5!c/6!c/6N
       5N quantitative for 6!c/6N/7!c/7N
   2N! 6+!d, either to play or slam interest if bidding continues
     3C! Good !d suit
+      3D for goodness sake stop here
     3D! Average- !d
       3HS (after either) shortness, game force
       3N (after either) to play
