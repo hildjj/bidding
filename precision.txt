@@ -180,7 +180,7 @@ P      11-12, <4D.  Don't be a hero.
   2C 5-8, 5C
   R 9+hcp
 
-1N-(D) Moscow escapes
+1N-(D) Moscow escapes (only over PENALTY doubles.  Systems on over artificial D.)
   R ->2!c one suited
   2C !c and another
   2D !d and a major
