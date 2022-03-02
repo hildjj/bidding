@@ -174,25 +174,31 @@ P      11-12, <4D.  Don't be a hero.
 ** Interference
 
 1C-(D)
-  P 0-7 hcp, WITH clubs
-  1D 0-7, no clubs
-  R 8+, both majors 44xx
-  * other systems on
+  P 0-4 hcp, or 5hcp no 5 card suit
+  1DHS 5-8, 5 cards
+  1N 6-8 balanced
+  2C 5-8, 5C
+  R 9+hcp
+
 1N-(D) Moscow escapes
   R ->2!c one suited
   2C !c and another
   2D !d and a major
   2H !h and !s
   2S 5+!s, invitational
-1C-(1X)
+1C-(->2S)
   P 0-4 hcp
-  D 5-8 hcp, no 5 card suit
-  Other 5-8 hcp 5+X
-  1N 9+ Unbalanced
-  2X (cuebid) 9+ Balanced
-  2N 9-11 stopper in X
-  3X 9+ hcp, 4441 short X
-  3N 12-14 stopper in X
+  D 5-8 hcp, no 5 card suit or 9+ hcp
+  minX 5-8 hcp 5+X
+  minN 6-8, balanced, stopper
+  jumpN 9-11 balanced
+  2jumpN 12-14 balanced
+  2X (cuebid) 9+, short in X
+1C-(2N+)
+  D penalty
+  3N 9-12 and stopper
+  * 5+ cards, game force
+  cuebid strong takeout
 
 ** Overcalls
 

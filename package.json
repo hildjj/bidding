@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "light-server -c .lightserverrc",
+    "start": "browser-sync start -c .bs-config.js",
     "build": "python3 ../bml/bml2html.py precision.txt && python3 ../bml/bml2latex.py precision.txt && pdflatex -halt-on-error precision.tex",
     "clean": "rm -f *.log *.aux *.out *.toc"
   },
@@ -12,7 +12,7 @@
   "author": "Joe Hildebrand <joe-github@cursive.net>",
   "license": "MPL-2.0",
   "devDependencies": {
-    "light-server": "^2.8.0",
-    "pegjs": "^0.11.0-master.b7b87ea"
+    "browser-sync": "^2.27.7",
+    "peggy": "^1.2.0"
   }
 }
