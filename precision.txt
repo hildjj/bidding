@@ -42,19 +42,24 @@ This started from notes on
 1D 11--15, 4+!d
   1HS 8+, 4+!h/!s
   1N 8-10, balanced (often passed!)
-  2C Unbalanced, not 4!h/!s
-  2D 11+ hcp, forcing to 3D
-    2N 11-12, balanced
-  2HS forcing
+  2C 11+hcp, 5+!c, no 4M
+  2D 11+ hcp, 3+!d, forcing one round
+    2HS 11-15, 6+!d-5M
+    2N 11-13, balanced-ish
+    3C 14-15, 5+!c
+    3D 14-15 5+!d
+    3HS splinter: 14-15, singleton/void
+    3N 14-15 4!d
+  2HS game forcing
   2N 16+ hcp, balanced
   3C forcing
   3D weak, 5!d
   3HS splinter
-  3N strong raise 14+ hcp, no singleton/void
+  3N 14-15 balanced, no 4M
   4C splinter
 1H 11--15, 5+!h
   1S 8+ hcp, 4+!s
-  1N 8--10, balanced, forcing one round, not 4!s
+  1N 8--12, balanced, mostly-forcing one round, not 4!s
     2CD 3+!c/!d (often 3, sometimes 2)
     2H rebid: 6+!h, min
     2S reverse: max, 45xx
@@ -62,23 +67,23 @@ This started from notes on
     3CD max, invites
     3H max, 6+!h
   2H 8-10, 3!h
-  2NT 16+ hcp, balanced
+  2NT Jacoby
   3H 10--11 total points usually 4!h, invites
   3S splinter
-  3N strong raise 14+ hcp, no singleton/void
+  3N 13--15 3!h
   4CD splinter
 1S 11--15, 5+!s
-  1N 8--10, balanced, forcing one round
+  1N 8--12, balanced, mostly-forcing one round
     2CD 3+!c/!d (often 3, sometimes 2)
     2H 4+!h
     2S rebid: 6+!s, min
     2N stop
     3CDH max, invites
     3S max, 6+!s
-  2S 8-10, 3!s
-  2NT 16+ hcp, balanced
+  2S 8--10, 3!s
+  2NT Jacoby 2NT
   3S 10--11 total points usually 4!s, invite
-  3N strong raise 14+ hcp, no singleton/voids
+  3N 13--15 hcp 3!s
   4CDH splinter
 1N  13--15, balanced
   2C Stayman
@@ -158,6 +163,15 @@ This started from notes on
   4H ->4!s stop
 3N Gambling
 
+** Jacoby 2NT
+
+1M-2NT Game forcing raise in partner's suit
+  3CDotherM short
+  3original strong, no singlton, void, or new 5 card suit
+  3N strong, balanced, stoppers in all outside suits
+  4CDotherM 5+
+  4original weak, no singlton, void, or new 5 card suit
+
 ** Balanced Hands
 
 Some of these are duplicates, but it's nice to have them all in one place.
@@ -190,6 +204,7 @@ P      11-12, <4D.  Don't be a hero.
   P 0-4 hcp
   D 5-8 hcp, no 5 card suit or 9+ hcp
   minX 5-8 hcp 5+X
+  jumpX 9+ hcp 5+X
   minN 6-8, balanced, stopper
   jumpN 9-11 balanced
   2jumpN 12-14 balanced
@@ -243,7 +258,7 @@ Over 1!c, shift all of the responses down.
       3S preference, STOP
     3S no thank you and my spade suit is a lot better.  STOP.
 (1N)-2S one-suited in spades, weaker than (1N)-D-2!c-2!s.  Think weak 2.
-(1N)-2N [please don't do this for now]
+(1N)-2N Minors, weak
 (1N)-3X pre-emptive, 7+X
 
 Over interference:
