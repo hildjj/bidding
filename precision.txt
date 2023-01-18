@@ -174,7 +174,7 @@ This started from notes on
       5C To play
       5D RKC Spades
   3C To play
-  3D To play (at the moment), 8+D, weak
+  3D Relay to 3N
   3H Invite to 4H, promises 5H
   3S Invite to 4S, promises 5S
   3N To play
