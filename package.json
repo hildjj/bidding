@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "browser-sync start -c .bs-config.js",
-    "build": "python3 ../bml/bml2html.py precision.txt && python3 ../bml/bml2latex.py precision.txt && pdflatex -halt-on-error precision.tex",
+    "build": "python3 ../bml/bml2html.py precision.txt && python3 ../bml/bml2html.py puppet.txt && python3 ../bml/bml2latex.py precision.txt && pdflatex -halt-on-error precision.tex && python3 ../bml/bml2latex.py puppet.txt && pdflatex -halt-on-error puppet.tex",
     "clean": "rm -f *.log *.aux *.out *.toc"
   },
   "keywords": [],
