@@ -15,8 +15,8 @@ NT opener to jump to 3N.
     2H! 4S invite
     2S! 4H invite
     2N! Neither, invite
-    3C! Both, invite
-    3D! Both, GF
+    3C! Both, GF (See 2N-3C-3D-4C)
+    3D! Both, Invite (See 2N-3C-3D-4D)
     3H! 4S, GF
     3S! 4H, GF
     3N, Neither, to play
@@ -47,8 +47,10 @@ NT opener to jump to 3N.
   3D! At least one 4M
     3H! 4S
     3S! 4H
-    3N! Both, forcing! (might still have slam)
+    3N! Neither
+    4C! Both, slam interest
+    4D! Both, no slam interest
   3H! 5H
   3S! 5S
   3N! No 4M
-2N-3N To play! (CANNOT BE A TRANSFER because 2N-3C-3D-3N is both)
+
