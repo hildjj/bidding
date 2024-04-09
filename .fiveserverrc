@@ -1,0 +1,7 @@
+{
+  "https": true,
+  "open": "precision.htm",
+  "useLocalIp": false,
+  "watch": ".",
+  "host": "localhost"
+}
