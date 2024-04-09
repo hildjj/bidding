@@ -1,0 +1,9 @@
+.cache/
+.editorconfig
+.fiveserverrc
+.vscode/
+*.htm
+*.md
+deals/
+eslint.config.js
+lib/bmd.peggy

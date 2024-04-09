@@ -21,7 +21,7 @@ NT opener to jump to 3N.
     3S! 4H, GF
     3N, Neither, to play
   2H! 5H
-    3CDS control
+    3CDS slam interest, control
     3H invite
     3N to play
     4CD splinter
@@ -29,14 +29,14 @@ NT opener to jump to 3N.
     4N RKC !h
   2S! 5S
     2N Invite 3N
-    3CDH control
+    3CDH slam interest, control
     3S Invite
     3N to play
     4CDH splinter
     4S to play
     4N RKC !s
   2N! no 4M, min
-    3X control
+    3X slam interest, control
     3N to play
     4C Gerber
   3C 5!c332
@@ -49,6 +49,10 @@ NT opener to jump to 3N.
     3S! 4H
     3N! Neither
     4C! Both, slam interest
+      4D! RKC !h
+      4H To play
+      4S To play
+      4N! RKC !s
     4D! Both, no slam interest
   3H! 5H
   3S! 5S
