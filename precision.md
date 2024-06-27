@@ -169,7 +169,7 @@ Last Update: 2024-04-04.
 3C! 3415 weak clubs (bid 2C with better clubs) [sim](https://hildjj.github.io/bridge-deal/?name=Precision+2D-2N-3C&stamp=1712606384451&code=eJw1TrsOgkAQ7O8rhsKKM2ThaEy0wVZjZw0cwkVyS3jE-PfuYa6ZZGZ3Hp7ndVDAYWLn1wVnGI1CI9cgkbMMT7cO6Jkt2nFrFtTegv34Fehgbho8dR55Jd9JFWMuKIQTHamUOEOlsMZZ5NfkFOWZt36QHGPIKBWuD6UW3vY9RGm03IMj1Xjx3Drf773i9TaaAhaVBIcijU9Xv_9b1Q_wODt_)
   3D! RKC Hearts
   3HSN To play
-  4C To play
+  4C Invite to 5C
   4N! RKC Spades
 3D! 4315 weak clubs (bid 2C with better clubs) [sim](https://hildjj.github.io/bridge-deal/?name=Precision+2D-2N-3D&stamp=1712606407789&code=eJw1Tj0PgjAU3PsrjsGJGvJoWUx0wVXj5gwUoZH0kQIx_ntbTJdL7t67D8d-HQVwmNm6dcEZWkJJlBIU5KLA064jBmaDbtraBY0zYDd9A_TQNwmee4eyDt9ZnWIuUIETHamS0IqqwFprUF6zU5I9b8MYcrQmLUS8PoRYeNv3EOXJco-OXOLFvrNu2HuD15lkiqhicCyS-PTN-79V_ADwTzuA)
   3HSN To play

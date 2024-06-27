@@ -7,3 +7,4 @@
 deals/
 eslint.config.js
 lib/bmd.peggy
+.ncurc
