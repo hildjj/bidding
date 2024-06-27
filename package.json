@@ -15,20 +15,20 @@
   "author": "Joe Hildebrand <joe-github@cursive.net>",
   "license": "MPL-2.0",
   "devDependencies": {
-    "@cto.af/eslint-config": "4.1.1",
+    "@cto.af/eslint-config": "4.1.2",
     "eslint": "9.5.0",
     "eslint-plugin-markdown": "5.0.0",
     "five-server": "0.3.3",
     "peggy": "^4.0.3"
   },
   "overrides": {
-    "@typescript-eslint/utils": "8.0.0-alpha.33",
-    "@typescript-eslint/parser": "8.0.0-alpha.33"
+    "@typescript-eslint/utils": "8.0.0-alpha.34",
+    "@typescript-eslint/parser": "8.0.0-alpha.34"
   },
   "pnpm": {
     "overrides": {
-      "@typescript-eslint/utils": "8.0.0-alpha.33",
-      "@typescript-eslint/parser": "8.0.0-alpha.33"
+      "@typescript-eslint/utils": "8.0.0-alpha.34",
+      "@typescript-eslint/parser": "8.0.0-alpha.34"
     }
   },
   "packageManager": "pnpm@9.4.0",
