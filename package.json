@@ -7,9 +7,11 @@
   "scripts": {
     "start": "five-server",
     "peggy": "peggy lib/bmd.peggy --format es",
+    "prebuild": "npm run peggy",
     "build": "bin/bmd-to-html.js *.md",
     "clean": "rm -f *.log *.aux *.out *.toc",
-    "lint": "eslint ."
+    "lint": "eslint .",
+    "ci": "npm run lint && npm run build"
   },
   "keywords": [],
   "author": "Joe Hildebrand <joe-github@cursive.net>",
