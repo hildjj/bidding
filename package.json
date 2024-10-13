@@ -17,10 +17,11 @@
   "author": "Joe Hildebrand <joe-github@cursive.net>",
   "license": "MPL-2.0",
   "devDependencies": {
+    "@11ty/eleventy-dev-server": "2.0.4",
     "@cto.af/eslint-config": "5.0.0",
     "eslint": "9.12.0",
     "eslint-plugin-markdown": "5.1.0",
-    "five-server": "0.3.3",
+    "jsrsasign": "11.1.0",
     "peggy": "^4.1.1"
   },
   "overrides": {

@@ -3,3 +3,4 @@
 lib/bmd.js
 node_modules/
 package-lock.json
+.cert/
