@@ -11,7 +11,7 @@
     "build": "bin/bmd-to-html.js *.md",
     "clean": "rm -f *.log *.aux *.out *.toc",
     "lint": "eslint .",
-    "ci": "npm run lint && npm run build"
+    "ci": "npm run build && npm run lint"
   },
   "keywords": [],
   "author": "Joe Hildebrand <joe-github@cursive.net>",
