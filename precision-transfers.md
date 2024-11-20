@@ -5,7 +5,7 @@ description: Integrating different Precision sources into one place -- With tran
 github: hildjj/bidding
 ---
 
-## Our Precision
+## Our Precision, with Transfers
 
 This started from notes on
 "The Precision Bidding System in Bridge" by C.C. Wei (Edited by Alan Truscott),
@@ -33,26 +33,45 @@ Last Update: 2024-11-20.
               1step) shortness (or AQx if 5step)
               2step) strength (or AK if 5 step)
             NewSuit) asking
-  1S! 8+ HCP, balanced
+    1N prefer 3N to 4S
+      2X slam interest, cue bid
+      2N 11-13, no shortness
+      3X shortness
+      3N 8-10
+  1S! 8+ HCP, balanced or semi-balanced with strength outside longer suits (e.g. 5422 shitty majors)
     1N! asking count
       2C 8-10
       2D 11-13
       2H 14-15
       2S 16+
+        nonjump) natural
         2N! Asking shape
           3x Bid 4-5 card suits up the line
   1N! 8+HCP, 6+ clubs, unsuitable for NT
     2C see 1C-1H
+    2DHS natural
+    2N asks for shortness (must have, or NT would have been ok)
   2C! 8+HCP, diamonds
     2D see 1C-1H
+    2HS natural
+    2N Forcing to 3N
+      3X Extra values, cue bid
+      3N min
   2D! 8+HCP, 5+H
     2H! see 1C-1H
+    2S natural
+    2N forcing to 3N
+      3X Extra values, cue bid
+      3N min
   2H! GF two-suiter (55+), without H
     2S 3+S
     2N No S tolerance, please bid other suit up the line
+    3X Natural (likely misfit)
   2S! GF 3-suiter (4441, 5440)
     2N! Asking for short suit
       3X singleton or void
+        3N to play
+    3N to play.  "That's nice, dear."
   2N! GF two-suiter (55+), WITH H
     3C! <3H, 3+C
     3D! <3H, <3C
