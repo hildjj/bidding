@@ -65,7 +65,7 @@ indent
 
 define
   = b:bids __ e:explanation { return new Definition(b, e) }
-  / alt:$[a-z0-9]i+ ")" __ e:explanation { return new Definition([alt], e) }
+  / alt:$[a-z0-9!-]i+ ")" __ e:explanation { return new Definition([alt], e) }
 
 bids
   = (bid / opponent_bid) |1.., _ "-" _ |
