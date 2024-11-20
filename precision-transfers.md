@@ -17,26 +17,26 @@ Last Update: 2024-11-20.
   1D! Negative  0--7 HCP, nothing about diamonds
   1H! 8+ HCP, 5+S
     1S! Asking about S
-      1step) none of top three honors
-      2step) 5!h/!s one of top three honors
-      3step) 5!h/!s two of top three honors
-      4step) 6+!h/!s one of top three honors
-      5step) 6+!h/!s two of top three honors
-      6step) all three of top honors
-        NewSuit) asking
-          1step) no control (xxx)
-          2step) 3rd round control (xx or Qxx)
-          3step) 2nd round control (x or Kx)
-          4step) 1st round control (void or A)
-          5step) AK or AQx
-            Rebid) Asking which?
-              1step) shortness (or AQx if 5step)
-              2step) strength (or AK if 5 step)
-            NewSuit) asking
+      1step!) none of top three honors
+      2step!) 5!s one of top three honors
+      3step!) 5!s two of top three honors
+      4step!) 6!s one of top three honors
+      5step!) 6!s two of top three honors
+      6step!) all three of top honors
+        NewSuit!) asking
+          1step!) no control (xxx)
+          2step!) 3rd round control (xx or Qxx)
+          3step!) 2nd round control (x or Kx)
+          4step!) 1st round control (void or A)
+          5step!) AK or AQx
+            Rebid!) Asking which?
+              1step!) shortness (or AQx if 5step)
+              2step!) strength (or AK if 5 step)
+            NewSuit!) asking
     1N prefer 3N to 4S
-      2X slam interest, cue bid
-      2N 11-13, no shortness
-      3X shortness
+      2X! slam interest, cue bid
+      2N! 11-13, no shortness
+      3X! shortness
       3N 8-10
   1S! 8+ HCP, balanced or semi-balanced with strength outside longer suits (e.g. 5422 shitty majors)
     1N! asking count
