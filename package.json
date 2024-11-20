@@ -5,7 +5,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "start": "five-server",
+    "start": "hostlocal",
     "peggy": "peggy lib/bmd.peggy --format es",
     "prebuild": "npm run peggy",
     "build": "bin/bmd-to-html.js *.md",
@@ -17,25 +17,20 @@
   "author": "Joe Hildebrand <joe-github@cursive.net>",
   "license": "MPL-2.0",
   "devDependencies": {
-    "@11ty/eleventy-dev-server": "2.0.4",
-    "@cto.af/eslint-config": "5.0.0",
-    "eslint": "9.12.0",
+    "@cto.af/eslint-config": "5.0.5",
+    "eslint": "9.15.0",
     "eslint-plugin-markdown": "5.1.0",
-    "jsrsasign": "11.1.0",
-    "peggy": "^4.1.1"
-  },
-  "overrides": {
-    "@typescript-eslint/utils": "8.0.0-alpha.34",
-    "@typescript-eslint/parser": "8.0.0-alpha.34"
+    "hostlocal": "1.4.0",
+    "peggy": "^4.2.0"
   },
   "pnpm": {
     "overrides": {
-      "@typescript-eslint/utils": "8.0.0-alpha.34",
-      "@typescript-eslint/parser": "8.0.0-alpha.34"
+      "@eslint/plugin-kit": "^0.2.3",
+      "micromatch": "^4.0.8"
     }
   },
-  "packageManager": "pnpm@9.12.1",
+  "packageManager": "pnpm@9.14.2",
   "dependencies": {
-    "slug": "9.1.0"
+    "slug": "10.0.0"
   }
 }
