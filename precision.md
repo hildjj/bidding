@@ -216,20 +216,21 @@ P      11-12, <4D.  Don't be a hero.
 
 ## Interference
 
-1C-(X) Direct double
+Partner-(RHO)-?
+
+1C-(D) Direct double
   P 0-4 hcp, or 5hcp no 5 card suit
   1DHS 5-8, 5 cards
   1N 6-8 balanced
   2C 5-8, 5C
   R 9+hcp
-
-1N-(X) Moscow escapes (only over PENALTY doubles.  Systems on over artificial D.)
+1N-(D) Moscow escapes (only over PENALTY doubles.  Systems on over artificial D.)
   R ->2c one suited
   2C !c and another
   2D !d and a major
   2H !h and !s
   2S 5+!s, invitational
-1C-(->2S) Use the implied suit if artificial
+1C-(->2S) (normal interference over strong)
   P 0-4 hcp
   D 5-8 hcp, no 5 card suit or 9+ hcp
   minX) 5-8 hcp 5+X
@@ -237,7 +238,7 @@ P      11-12, <4D.  Don't be a hero.
   minN) 6-8, balanced, stopper
   jumpN) 9-11 balanced
   2jumpN) 12-14 balanced
-  2X (cuebid) 9+, short in X
+  2X (cuebid of implied suit) 9+, short in X
 1C-(2N+) Unlikely this is their hand
   D penalty
   3* 5+ cards, game force
