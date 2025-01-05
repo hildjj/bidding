@@ -60,6 +60,36 @@ div {
   visibility: visible;
 }
 
+.alert {
+  border-radius: 4px;
+  border: 1px solid red;
+  padding-left: 2px;
+  padding-right: 2px;
+}
+
+main {
+  margin-right: 10em;
+}
+
+.outline {
+  border-radius: 8px;
+  border: 1px solid black;
+  position: fixed;
+  top: 9em;
+  width: 10em;
+  right: 0.5em;
+  padding: 0.5em;
+  padding-right: 0;
+  margin: 0;
+  background-color: bisque;
+}
+
+.outline ul {
+  padding: 0;
+  margin: 0;
+  list-style: none
+}
+
 /*!
  * "Fork me on GitHub" CSS ribbon v0.2.3 | MIT License
  * https://github.com/simonwhitaker/github-fork-ribbon-css
@@ -144,35 +174,50 @@ div {
 }
 </style>
 </head>
-<body>  <a class="github-fork-ribbon" href="https://github.com/hildjj/bidding" data-ribbon="Fork me on GitHub" title="Fork me on GitHub">Fork me on GitHub</a><h2 id="transfer-lebensohl" class="head"> Transfer Lebensohl<a href="#transfer-lebensohl" class="pilcrow">¶</a></h2>  <div class="tree">
-    <div class="lf"></div><div class="title">1N</div><div class="cr" style="grid-column-start: 3;">15-17</div>
-    <div class="lf"></div><div class="col"></div><div class="title">D</div><div class="cr" style="grid-column-start: 4;">With any meaning</div>
-    <div class="lf"></div><div class="col"></div><div class="col"></div><div class="title">R</div><div class="cr" style="grid-column-start: 5;">Balance of power</div>
-    <div class="lf"></div><div class="col"></div><div class="col"></div><div class="title">X</div><div class="cr" style="grid-column-start: 5;">Systems on</div>
-    <div class="lf"></div><div class="col"></div><div class="title">2<span class="clubs">&clubs;</span></div><div class="cr" style="grid-column-start: 4;">With any meaning</div>
-    <div class="lf"></div><div class="col"></div><div class="col"></div><div class="title">D</div><div class="cr" style="grid-column-start: 5;">Puppet Stayman</div>
-    <div class="lf"></div><div class="col"></div><div class="col"></div><div class="title">X</div><div class="cr" style="grid-column-start: 5;">Systems on</div>
-    <div class="lf"></div><div class="col"></div><div class="title">2<span class="diamonds">&diams;</span><span class="hearts">&hearts;</span><span class="spades">&spades;</span></div><div class="cr" style="grid-column-start: 4;">1-2 implied suits</div>
-    <div class="lf"></div><div class="col"></div><div class="col"></div><div class="title">2<span class="clubs">&clubs;</span><span class="diamonds">&diams;</span><span class="hearts">&hearts;</span><span class="spades">&spades;</span>!</div><div class="cr" style="grid-column-start: 5;">To play</div>
-    <div class="lf"></div><div class="col"></div><div class="col"></div><div class="title">2N!</div><div class="cr" style="grid-column-start: 5;">Relay to 3C</div>
-    <div class="lf"></div><div class="col"></div><div class="col"></div><div class="title">3<span class="clubs">&clubs;</span><span class="diamonds">&diams;</span><span class="hearts">&hearts;</span><span class="spades">&spades;</span>!</div><div class="cr" style="grid-column-start: 5;">(not implied suit) Invite or better, transfer through implied suits to 5+ card suit</div>
-    <div class="lf"></div><div class="col"></div><div class="col"></div><div class="title">3<span class="clubs">&clubs;</span><span class="diamonds">&diams;</span><span class="hearts">&hearts;</span><span class="spades">&spades;</span>!</div><div class="cr" style="grid-column-start: 5;">(implied suit) stayman, does not have 1.5+/2 suits stopped</div>
-    <div class="lf"></div><div class="col"></div><div class="col"></div><div class="title">3N!</div><div class="cr" style="grid-column-start: 5;">GF, does not have 1.5/2 stoppers in implied suits</div>
-    <div class="lf"></div><div class="col"></div><div class="title">2<span class="diamonds">&diams;</span><span class="hearts">&hearts;</span><span class="spades">&spades;</span></div><div class="cr" style="grid-column-start: 4;">0 or 3+ implied suits.</div>
-    <div class="lf"></div><div class="col"></div><div class="col"></div><div class="title">2<span class="clubs">&clubs;</span><span class="diamonds">&diams;</span><span class="hearts">&hearts;</span><span class="spades">&spades;</span>!</div><div class="cr" style="grid-column-start: 5;">To play</div>
-    <div class="lf"></div><div class="col"></div><div class="col"></div><div class="title">2N!</div><div class="cr" style="grid-column-start: 5;">Relay to 3C</div>
-    <div class="lf"></div><div class="col"></div><div class="col"></div><div class="title">3<span class="clubs">&clubs;</span><span class="diamonds">&diams;</span><span class="hearts">&hearts;</span><span class="spades">&spades;</span>!</div><div class="cr" style="grid-column-start: 5;">Transfer, ignore implied suits</div>
-    <div class="lf"></div><div class="col"></div><div class="col"></div><div class="title">3N!</div><div class="cr" style="grid-column-start: 5;">To play, no slam interest</div>
+<body>  <a class="github-fork-ribbon" href="https://github.com/hildjj/bidding" data-ribbon="Fork me on GitHub" title="Fork me on GitHub">Fork me on GitHub</a>
+  <div class="outline">
+    <ul>
+      <li style="padding-inline-start: 1em"><a href="#transfer-lebensohl"> Transfer Lebensohl</a></li>
+    </ul>
   </div>
-<p>After the 2N-3C relay: </p>  <div class="tree">
-    <div class="lf"></div><div class="title">1N-2<span class="diamonds">&diams;</span><span class="hearts">&hearts;</span><span class="spades">&spades;</span>-2N-3<span class="clubs">&clubs;</span>!</div><div class="cr" style="grid-column-start: 3;">Artificial, forced</div>
-    <div class="lf"></div><div class="col"></div><div class="title">P</div><div class="cr" style="grid-column-start: 4;">3C to play</div>
-    <div class="lf"></div><div class="col"></div><div class="title">3<span class="diamonds">&diams;</span><span class="hearts">&hearts;</span><span class="spades">&spades;</span></div><div class="cr" style="grid-column-start: 4;">(not implied suit) to play</div>
-    <div class="lf"></div><div class="col"></div><div class="title">3<span class="diamonds">&diams;</span><span class="hearts">&hearts;</span><span class="spades">&spades;</span></div><div class="cr" style="grid-column-start: 4;">(implied suit) stayman, with stopper in implied suit</div>
-    <div class="lf"></div><div class="col"></div><div class="title">3N</div><div class="cr" style="grid-column-start: 4;">to play, with 1.5+/2 suits stopped</div>
-  </div>
-<p>After a transfer: </p>  <div class="tree">
-    <div class="lf"></div><div class="title">1N-2<span class="diamonds">&diams;</span><span class="hearts">&hearts;</span><span class="spades">&spades;</span>-3<span class="clubs">&clubs;</span><span class="diamonds">&diams;</span><span class="hearts">&hearts;</span><span class="spades">&spades;</span></div><div class="cr" style="grid-column-start: 3;">Transfer through implied suits.  Note that this is invite+, so you can jump with a max, either to 3N or game in transferred suit.  If you take the transfer, it implies you've got a minimum, we don't have a fit, etc.  Responder can bid on with a game forcing hand.</div>
-  </div>
+  <main>
+    <p>Last updated: 2025-01-05 </p>
+    <h2 id="transfer-lebensohl" class="head"> Transfer Lebensohl<a href="#transfer-lebensohl" class="pilcrow">¶</a></h2>
+    <div class="tree">
+      <div class="lf"></div><div class="title">1N</div><div class="cr" style="grid-column-start: 3;">15-17</div>
+      <div class="lf"></div><div class="col"></div><div class="title">D</div><div class="cr" style="grid-column-start: 4;">With any meaning</div>
+      <div class="lf"></div><div class="col"></div><div class="col"></div><div class="title">R</div><div class="cr" style="grid-column-start: 5;">Balance of power</div>
+      <div class="lf"></div><div class="col"></div><div class="col"></div><div class="title">*</div><div class="cr" style="grid-column-start: 5;">Systems on</div>
+      <div class="lf"></div><div class="col"></div><div class="title">2<span class="clubs">&clubs;</span></div><div class="cr" style="grid-column-start: 4;">With any meaning</div>
+      <div class="lf"></div><div class="col"></div><div class="col"></div><div class="title">D</div><div class="cr" style="grid-column-start: 5;">Puppet Stayman</div>
+      <div class="lf"></div><div class="col"></div><div class="col"></div><div class="title">*</div><div class="cr" style="grid-column-start: 5;">Systems on</div>
+      <div class="lf"></div><div class="col"></div><div class="title">2<span class="diamonds">&diams;</span><span class="hearts">&hearts;</span><span class="spades">&spades;</span></div><div class="cr" style="grid-column-start: 4;">1-2 implied suits</div>
+      <div class="lf"></div><div class="col"></div><div class="col"></div><div class="title"><span class="alert" title="Alert!">2<span class="clubs">&clubs;</span><span class="diamonds">&diams;</span><span class="hearts">&hearts;</span><span class="spades">&spades;</span></span></div><div class="cr" style="grid-column-start: 5;">To play</div>
+      <div class="lf"></div><div class="col"></div><div class="col"></div><div class="title"><span class="alert" title="Alert!">2N</span></div><div class="cr" style="grid-column-start: 5;">Relay to 3C</div>
+      <div class="lf"></div><div class="col"></div><div class="col"></div><div class="title"><span class="alert" title="Alert!">3<span class="clubs">&clubs;</span><span class="diamonds">&diams;</span><span class="hearts">&hearts;</span><span class="spades">&spades;</span></span></div><div class="cr" style="grid-column-start: 5;">(not implied suit) Invite or better, transfer through implied suits to 5+ card suit</div>
+      <div class="lf"></div><div class="col"></div><div class="col"></div><div class="title"><span class="alert" title="Alert!">3<span class="clubs">&clubs;</span><span class="diamonds">&diams;</span><span class="hearts">&hearts;</span><span class="spades">&spades;</span></span></div><div class="cr" style="grid-column-start: 5;">(implied suit) stayman, does not have 1.5+/2 suits stopped</div>
+      <div class="lf"></div><div class="col"></div><div class="col"></div><div class="title"><span class="alert" title="Alert!">3N</span></div><div class="cr" style="grid-column-start: 5;">GF, does not have 1.5/2 stoppers in implied suits</div>
+      <div class="lf"></div><div class="col"></div><div class="title">2<span class="diamonds">&diams;</span><span class="hearts">&hearts;</span><span class="spades">&spades;</span></div><div class="cr" style="grid-column-start: 4;">0 or 3+ implied suits.</div>
+      <div class="lf"></div><div class="col"></div><div class="col"></div><div class="title"><span class="alert" title="Alert!">2<span class="clubs">&clubs;</span><span class="diamonds">&diams;</span><span class="hearts">&hearts;</span><span class="spades">&spades;</span></span></div><div class="cr" style="grid-column-start: 5;">To play</div>
+      <div class="lf"></div><div class="col"></div><div class="col"></div><div class="title"><span class="alert" title="Alert!">2N</span></div><div class="cr" style="grid-column-start: 5;">Relay to 3C</div>
+      <div class="lf"></div><div class="col"></div><div class="col"></div><div class="title"><span class="alert" title="Alert!">3<span class="clubs">&clubs;</span><span class="diamonds">&diams;</span><span class="hearts">&hearts;</span><span class="spades">&spades;</span></span></div><div class="cr" style="grid-column-start: 5;">Transfer, invite or better, ignore implied suits</div>
+      <div class="lf"></div><div class="col"></div><div class="col"></div><div class="title"><span class="alert" title="Alert!">3N</span></div><div class="cr" style="grid-column-start: 5;">To play, no slam interest</div>
+    </div>
+    <p>After the 2N-3C relay: </p>
+    <div class="tree">
+      <div class="lf"></div><div class="title">1N-2<span class="diamonds">&diams;</span><span class="hearts">&hearts;</span><span class="spades">&spades;</span>-2N-<span class="alert" title="Alert!">3<span class="clubs">&clubs;</span></span></div><div class="cr" style="grid-column-start: 3;">Artificial, forced</div>
+      <div class="lf"></div><div class="col"></div><div class="title">P</div><div class="cr" style="grid-column-start: 4;">3C to play</div>
+      <div class="lf"></div><div class="col"></div><div class="title">3<span class="diamonds">&diams;</span><span class="hearts">&hearts;</span><span class="spades">&spades;</span></div><div class="cr" style="grid-column-start: 4;">(not implied suit) to play</div>
+      <div class="lf"></div><div class="col"></div><div class="title">3<span class="diamonds">&diams;</span><span class="hearts">&hearts;</span><span class="spades">&spades;</span></div><div class="cr" style="grid-column-start: 4;">(implied suit) stayman, with stopper in implied suit</div>
+      <div class="lf"></div><div class="col"></div><div class="title">3N</div><div class="cr" style="grid-column-start: 4;">to play, with 1.5+/2 suits stopped or 1/1 implied suit stopped</div>
+    </div>
+    <p>After a transfer: </p>
+    <div class="tree">
+      <div class="lf"></div><div class="title">1N-<span class="alert" title="Alert!">3<span class="clubs">&clubs;</span><span class="diamonds">&diams;</span><span class="hearts">&hearts;</span><span class="spades">&spades;</span></span></div><div class="cr" style="grid-column-start: 3;">Transfer through implied suits.  Note that this is invite+.</div>
+      <div class="lf"></div><div class="col"></div><div class="title">3X+1</div><div class="cr" style="grid-column-start: 4;">Minimum.  Responder can bid on with GF values</div>
+      <div class="lf"></div><div class="col"></div><div class="title">3N</div><div class="cr" style="grid-column-start: 4;">Maximum, limited support</div>
+    </div>
+    <p>  4Y Maximum with support </p>
+  </main>
 </body>
 </html>

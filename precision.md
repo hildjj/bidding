@@ -5,43 +5,58 @@ description: Integrating different Precision sources into one place
 github: hildjj/bidding
 ---
 
-## Our Precision
+# Our Precision
 
 This started from notes on
 "The Precision Bidding System in Bridge" by C.C. Wei (Edited by Alan Truscott),
 2nd Edition, 1973. (ISBN 0-486-21171-1).
 
-Last Update: 2024-04-04.
+Last Updated: 2025-01-05.
+
+## Strong Openings
 
 1C! 16+HCP nothing about clubs [sim](https://hildjj.github.io/bridge-deal/?name=Precision+1C&stamp=1712605097572&code=eJzLyy8qyeBSUFA0MtI1MtZRSErMScxLTk0BChmaaQPJpMwUBUNnRSsQV0chsagkMy0zOTMxBwCuEw9d)
   1D! one of: [sim](https://hildjj.github.io/bridge-deal/?name=Precision+1C-1D&stamp=1712605163064&code=eJzLyy8qyeBSUFA0MtI1MtZRSErMScxLTk0BChmaaQPJpMwUBUNnRSsQV0chsagkMy0zOTMxh4sLJBPAxVWcXwo2wQIknVepYGJiYggy0ETXXEfBTNsXzjbXzgWyDXTNYaa6AE0tLS5NzMmpBAmjmA4AWLcmOA%3D%3D)
     a) Negative  0--7 HCP, nothing about diamonds [sim](https://hildjj.github.io/bridge-deal/?name=Precision+1C-1D+weak&stamp=1712605175272&code=eJzLyy8qyeBSUFA0MtI1MtZRSErMScxLTk0BChmaaQPJpMwUBUNnRSsQV0chsagkMy0zOTMxh4sLJBPAxVWcXwoxwUTXXEfBzBfONNeOALINdM1hprgATSktLk3MyakECaOYBgAsDSLK)
     b) Impossible Negative 8+ HCP, 4441.  Jump in singleton next [sim](https://hildjj.github.io/bridge-deal/?name=Precision+1C-1D+strong&stamp=1712605182788&code=eJzLyy8qyeBSUFA0MtI1MtZRSErMScxLTk0BChmaaQPJpMwUBUNnRSsQV0chsagkMy0zOTMxh4sLJBPAxVWcXwo2wQIknVepYGJiYgjT5wLUV1pcmpiTU6lgoGuOoh8AuLUhPw%3D%3D)
   1HS 8+ HCP. 5+!h/!s [sim](https://hildjj.github.io/bridge-deal/?name=Precision+1C-1M&stamp=1712605212995&code=eJzLyy8qyeBSUFA0MtI1MtZRSErMScxLTk0BChmaaQPJpMwUBUNnRSsQV0chsagkMy0zOTMxh4sLJBPAxVWcXwo2QaW4NLNEwVbBA8i2ACo11fbQUQi2sfVAkguGywXDjFapBsnVWkHFoVwuAKF1Jv4%3D)
-    2HS raise, asking
-      1step) none of top three honors
-      2step) 5!h/!s one of top three honors
-      3step) 5!h/!s two of top three honors
-      4step) 6+!h/!s one of top three honors
-      5step) 6+!h/!s two of top three honors
-      6step) all three of top honors
-        NewSuit) asking
-          1step) no control (xxx)
-          2step) 3rd round countrol (xx or Qxx)
-          3step) 2nd round control (x or Kx)
-          4step) 1st round control (void or A)
-          5step) AK or AQx
-            Rebid) Asking which?
-              1step) shortness
-              2step) strength
-            NewSuit) asking
+    2HS! raise, asking
+      1step!) none of top three honors
+      2step!) 5!h/!s one of top three honors
+      3step!) 5!h/!s two of top three honors
+      4step!) 6+!h/!s one of top three honors
+      5step!) 6+!h/!s two of top three honors
+      6step!) all three of top honors
+        NewSuit!) asking
+          1step!) no control (xxx)
+          2step!) 3rd round control (xx or Qxx)
+          3step!) 2nd round control (x or Kx)
+          4step!) 1st round control (void or A)
+          5step!) AK or AQx
+            Rebid!) Asking which?
+              1step!) shortness
+              2step!) strength
+            NewSuit!) asking
   1N 8--10 HCP, balanced [sim](https://hildjj.github.io/bridge-deal/?name=Precision+1C-1N&stamp=1712605226480&code=eJzLyy8qyeBSUFA0MtI1MtZRSErMScxLTk0BChmaaQPJpMwUBUNnRSsQV0chsagkMy0zOTMxh4sLJBPAxVWcXwo2wULX0ABFP1innxVYAiEOAKeGHmk%3D)
-  2CD 9+ hcp, 5+!c/!d [sim](https://hildjj.github.io/bridge-deal/?name=Precision+1C-2m&stamp=1712605240674&code=eJzLyy8qyeBSUFA0MtI1MtZRSErMScxLTk0BChmaaQPJpMwUBUNnRSsQV0chsagkMy0zOTMxh4sLJBPAxVWcXwo2QaW4NLNEwVbBGci2BCo11XbWUXBWsLNVcEGSdYHLukANN1KpBsnVWkHFoVwuANayJwg%3D)
+  2CD 9+ hcp, 5+!c/!d (prefer to bid NT instead of this if 5332 unless suit is AKQxx or KQJxx) [sim](https://hildjj.github.io/bridge-deal/?name=Precision+1C-2m&stamp=1712605240674&code=eJzLyy8qyeBSUFA0MtI1MtZRSErMScxLTk0BChmaaQPJpMwUBUNnRSsQV0chsagkMy0zOTMxh4sLJBPAxVWcXwo2QaW4NLNEwVbBGci2BCo11XbWUXBWsLNVcEGSdYHLukANN1KpBsnVWkHFoVwuANayJwg%3D)
     Raises) same as majors
-  2HS 4--7 hcp, 6!h/!s (like weak 2) [sim](https://hildjj.github.io/bridge-deal/?name=Precision+1C-2M&stamp=1712605255100&code=eJzLyy8qyeBSUFA0MtI1MtZRSErMScxLTk0BChmaaQPJpMwUBUNnRSsQV0chsagkMy0zOTMxh4sLJBPAxVWcXwo2QaW4NLNEwVbBA8g20TXXUTDz4EISDoYLB3NBjTVSqQZJ1lpBJaBcLgABLCXU)
+  2HS! 4--7 hcp, 6!h/!s (like weak 2) [sim](https://hildjj.github.io/bridge-deal/?name=Precision+1C-2M&stamp=1712605255100&code=eJzLyy8qyeBSUFA0MtI1MtZRSErMScxLTk0BChmaaQPJpMwUBUNnRSsQV0chsagkMy0zOTMxh4sLJBPAxVWcXwo2QaW4NLNEwVbBA8g20TXXUTDz4EISDoYLB3NBjTVSqQZJ1lpBJaBcLgABLCXU)
   2N 11--13 or 16+ hcp, balanced [sim](https://hildjj.github.io/bridge-deal/?name=Precision+1C-2N&stamp=1712605266455&code=eJzLyy8qyeBSUFA0MtI1MtZRSErMScxLTk0BChmaaQPJpMwUBUNnRSsQV0chsagkMy0zOTMxh4sLJBPAxVWcXwo2wdBQ1xDDABQ-SIORnxVEpUJ-EZoCAAazJPU%3D)
-  3X 4--7 hcp, 7+ suit (like preempt) [sim](https://hildjj.github.io/bridge-deal/?name=Precision+1C-3X&stamp=1712605278417&code=eJzLyy8qyeBSUFA0MtI1MtZRSErMScxLTk0BChmaaQPJpMwUBUNnRSsQV0chsagkMy0zOTMxh4sLJBPAxVWcXwo2QaW4NLNEwVbBGcg20TXXUTDXdkYSdkEIuyAJeyCEPZCEgxHCwVBHGKtUgyRrgU4pT03M5gIA2ootdQ%3D%3D)
+  3X! 4--7 hcp, 7+ suit (like preempt) [sim](https://hildjj.github.io/bridge-deal/?name=Precision+1C-3X&stamp=1712605278417&code=eJzLyy8qyeBSUFA0MtI1MtZRSErMScxLTk0BChmaaQPJpMwUBUNnRSsQV0chsagkMy0zOTMxh4sLJBPAxVWcXwo2QaW4NLNEwVbBGcg20TXXUTDXdkYSdkEIuyAJeyCEPZCEgxHCwVBHGKtUgyRrgU4pT03M5gIA2ootdQ%3D%3D)
   3N 14--15, balanced [sim](https://hildjj.github.io/bridge-deal/?name=Precision+1C-3N&stamp=1712605317786&code=eJzLyy8qyeBSUFA0MtI1MtZRSErMScxLTk0BChmaaQPJpMwUBUNnRSsQV0chsagkMy0zOTMxh4sLJBPAxVWcXwo2wdBE19AUxQCQAmM_K4gMXAIAwZ0exQ%3D%3D)
+
+2N 22--23 hcp, balanced
+  3C stayman
+  3D ->3!h
+  3H ->3!s
+  3S Minor suit stayman
+  3N stop
+  4C Gerber (ew.  find something else)
+  4D ->4!h stop
+  4H ->4!s stop
+
+## Limited Openings
+
 1D 11--15, 4+!d [sim](https://hildjj.github.io/bridge-deal/?name=Precision+1D&stamp=1712605379089&code=eJzLyy8qyeBSUFC0MXFR0NdXSMnPUy9RSEpVSFTISC3KB8mYaTvrKJiCZfMLUvMUjJxBoqYgURNfDFEPHQUPBTtbBYR6Qw-ITLCOQjCaTDBIxtBY19BURyEpMScxLzk1BSHrB5Q1NARKAumkzBQFQxcuAFC1KNE%3D)
   1HS 8+, 4+!h/!s [sim](https://hildjj.github.io/bridge-deal/?name=Precision+1D-1M&stamp=1712605394510&code=eJxlzs8KgkAQBvD7PMUXCB3ckC0ND9pFD3spgn0CzQWF2A3_nKJ3b8coo04ffL9hZqzrx5aAVRaXiCI0zq5H1AYVWtM7ln1YCCSzupux2BbcJtzGx79WCSgccizzUr1EC-gf0Sxyt5GJQF1dK3sxzaInr1J69Fl3DWRJxHkmGtw0vx0MUzciB59IQ_8Q39dZrugL9Qc1vVcFd8YHPQFRrDww)
   1N 8-10, balanced (often passed!) [sim](https://hildjj.github.io/bridge-deal/?name=Precision+1D-1N&stamp=1712605407535&code=eJxlzrEKwjAUBdA9X3GdHEypTxNxqC7tkMUi5AsSE2hBEqn1_00qEtDpwj33wQtxmgcGrBrRoa7hYljPsB4Gg59ilsOm5ZCLxocP2LW5lbkVl79WcSicTyh7Uh_RHPpHdBbaVyQ5rLmbcPOuaJ-UKGFKOzpQx1jOK2PP-FrePla0LaccjVD6u-7ZG8V4NMA%3D)
@@ -70,7 +85,7 @@ Last Update: 2024-04-04.
     3CD max, invites
     3H max, 6+!h
   2H 8-10, 3!h
-  2N Jacoby
+  2N Jacoby 2NT (see [below](#jacoby-2nt))
   3H 10--11 total points usually 4!h, invites
   3S splinter
   3N 13--15 3!h
@@ -84,12 +99,12 @@ Last Update: 2024-04-04.
     3CDH max, invites
     3S max, 6+!s
   2S 8--10, 3!s
-  2N Jacoby 2NT
+  2N Jacoby 2NT (see [below](#jacoby-2nt))
   3S 10--11 total points usually 4!s, invite
   3N 13--15 hcp 3!s
   4CDH splinter
 1N  13--15, balanced
-  2C Stayman
+  2C Stayman ([puppet](puppet.htm), with Tim)
     2H 4h, might have 4s
       2S! 5+!s,4!h invitational
       2N 4!s, invitational
@@ -153,16 +168,16 @@ Last Update: 2024-04-04.
     3H Strong Hand, Weak Suit
     3S Strong Hand, Strong Suit
     3N AKQ in original pre-empt suit
-2N 22--23 hcp, balanced
-  3C stayman
-  3D ->3!h
-  3H ->3!s
-  3S Minor suit stayman
-  3N stop
-  4C Gerber (ew.  find something else)
-  4D ->4!h stop
-  4H ->4!s stop
 3N Gambling
+
+## Jacoby 2NT
+
+1HS-2N Game forcing, slam interest, no singleton/void, usually 4 card support
+  3CD (or other major) 0-1 of bid suit
+  3HS (bid suit) 14-15, no shortness, no outside 5 card suit
+  3N 14-15, AKQ of suit
+  4CD (or other major) 5+ cards in bid suit
+  4HS (bid suit) 11-13, no shortness, no outside 5 card suit
 
 ## 2D-2N (forcing)
 
@@ -218,20 +233,43 @@ P      11-12, <4D.  Don't be a hero.
 
 Partner-(RHO)-?
 
-1C-(D) Direct double
-  P 0-4 hcp, or 5hcp no 5 card suit
-  1DHS 5-8, 5 cards
-  1N 6-8 balanced
-  2C 5-8, 5C
-  R 9+hcp
-1N-(D) Moscow escapes (only over PENALTY doubles.  Systems on over artificial D.)
+1N-(X) Moscow escapes (only over PENALTY doubles.  Systems on over artificial double.  This is effectively DONT, the other direction.)
   R ->2c one suited
   2C !c and another
   2D !d and a major
   2H !h and !s
   2S 5+!s, invitational
-1C-(->2S) (normal interference over strong)
-  P 0-4 hcp
+1N-(2C) No matter what it means
+  X Stayman
+  * Systems on
+1N-(*) [Transefer Lebensohl](transfer-lebensohl.htm) with Tim
+
+Good players who are prepared will often find an excuse to bid over 1C, even with puny hands.
+
+1C!-(X) Least-effective interference.  Just gives us more room.  Ignore the meaning of the double.
+  P! 0-4, Systems on as if 1C-(P)-1D, but not forcing
+  XX! 9+, any 4441 or 5440, GF
+    1N! (or 2N with 2X overcall) Where is shortness?
+      2X! Short in bid suit
+        2N Control-asking bid (A=2 controls, K=1), please bid past game if 4+ controls (because majors)
+          3C 0-2 controls
+          3D 3 controls
+          3H 4 controls
+          3S 5 controls
+          3N 6+ controls
+        * Natural, sets trump
+  1D! 5-8, any shape (like a good 1D response to 1C), systems on as if 1C-(P)-1D
+  * Everything else, systems on, but with 9+
+
+1C!-(1D) No matter what 1D means
+  P! 0-4, systems on as if 1C-(P)-1D, but not forcing
+  X! 5-8, systems on as if 1C-(P)-1D (or 9-10 balanced no stopper, or 9+ 4441 impossible negative)
+  1N 8-10, stopper in one of their suits, if suit(s) were implied.  If no stopper, double.
+  2N 11-13 or 16+ as usual.  Nothing specific about stoppers, because points.
+  * Everything else, systems on, but with 9+
+
+1C-(1H->2S) Effective interference!
+  P! 0-4 hcp
   D 5-8 hcp, no 5 card suit or 9+ hcp
   minX) 5-8 hcp 5+X
   jumpX) 9+ hcp 5+X
@@ -239,6 +277,7 @@ Partner-(RHO)-?
   jumpN) 9-11 balanced
   2jumpN) 12-14 balanced
   2X (cuebid of implied suit) 9+, short in X
+
 1C-(2N+) Unlikely this is their hand
   D penalty
   3* 5+ cards, game force

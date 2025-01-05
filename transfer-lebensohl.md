@@ -5,15 +5,17 @@ description: Integrating different Lebensohl sources into one place
 github: hildjj/bidding
 ---
 
+Last updated: 2025-01-05
+
 ## Transfer Lebensohl
 
 1N 15-17
   D With any meaning
     R Balance of power
-    X Systems on
+    * Systems on
   2C With any meaning
     D Puppet Stayman
-    X Systems on
+    * Systems on
   2DHS 1-2 implied suits
     2X! To play
     2N! Relay to 3C
@@ -23,7 +25,7 @@ github: hildjj/bidding
   2DHS 0 or 3+ implied suits.
     2X! To play
     2N! Relay to 3C
-    3X! Transfer, ignore implied suits
+    3X! Transfer, invite or better, ignore implied suits
     3N! To play, no slam interest
 
 After the 2N-3C relay:
@@ -32,8 +34,11 @@ After the 2N-3C relay:
   P 3C to play
   3DHS (not implied suit) to play
   3DHS (implied suit) stayman, with stopper in implied suit
-  3N to play, with 1.5+/2 suits stopped
+  3N to play, with 1.5+/2 suits stopped or 1/1 implied suit stopped
 
 After a transfer:
 
-1N-2DHS-3X Transfer through implied suits.  Note that this is invite+, so you can jump with a max, either to 3N or game in transferred suit.  If you take the transfer, it implies you've got a minimum, we don't have a fit, etc.  Responder can bid on with a game forcing hand.
+1N-3X! Transfer through implied suits.  Note that this is invite+.
+  3X+1) Minimum.  Responder can bid on with GF values
+  3N Maximum, limited support
+  4Y Maximum with support
