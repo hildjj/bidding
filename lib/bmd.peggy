@@ -65,7 +65,7 @@ indent
 
 define
   = b:bids __ e:explanation { return new Definition(b, e) }
-  / alt:$[a-z0-9!-]i+ ")" __ e:explanation { return new Definition([alt], e) }
+  / alt:$[a-z0-9-]i+ alert:"!"? ")" __ e:explanation { return new Definition([new Bid("", alt, alert)], e, alert) }
 
 bids
   = (bid / opponent_bid) |1.., _ "-" _ |
@@ -74,7 +74,8 @@ opponent_bid
   = "(" bid:through ")" { bid.opponent = true; return bid; }
 
 through
-  = thr:("->" _)? bid:bid more:(_"+")? {
+  = thr:((@bid _)? "->" _)? bid:bid more:(_"+")? {
+    bid.start = thr?.[0];
     bid.through = Boolean(thr);
     bid.more = Boolean(more);
     return bid;
@@ -83,7 +84,7 @@ through
 bid
   = level:level suits:suits alert:alert? { return new Bid(level, suits, alert) }
   / "XX" alert:alert? { return new Bid(0, 'XX', alert); }
-  / bid:[DXRP] alert:alert? &[ )-] { return new Bid(0, bid, alert); }
+  / bid:[DXRP*] alert:alert? &[ )-] { return new Bid(0, bid, alert); }
 
 level
   = [1-7] { return parseInt(text(), 10) }
