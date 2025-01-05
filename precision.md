@@ -11,7 +11,7 @@ This started from notes on
 "The Precision Bidding System in Bridge" by C.C. Wei (Edited by Alan Truscott),
 2nd Edition, 1973. (ISBN 0-486-21171-1).
 
-Last Update: 2025-01-04.
+Last Updated: 2025-01-05.
 
 ## Strong Openings
 
@@ -104,7 +104,7 @@ Last Update: 2025-01-04.
   3N 13--15 hcp 3!s
   4CDH splinter
 1N  13--15, balanced
-  2C Stayman
+  2C Stayman ([puppet](puppet.htm), with Tim)
     2H 4h, might have 4s
       2S! 5+!s,4!h invitational
       2N 4!s, invitational
@@ -239,6 +239,10 @@ Partner-(RHO)-?
   2D !d and a major
   2H !h and !s
   2S 5+!s, invitational
+1N-(2C) No matter what it means
+  X Stayman
+  * Systems on
+1N-(*) [Transefer Lebensohl](transfer-lebensohl.htm) with Tim
 
 Good players who are prepared will often find an excuse to bid over 1C, even with puny hands.
 

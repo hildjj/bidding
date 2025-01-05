@@ -5,6 +5,8 @@ description: Integrating different Puppet sources into one place
 github: hildjj/bidding
 ---
 
+Last updated: 2025-01-05
+
 ## Introduction
 
 This is set up without point counts so that it should work with any NT range.
@@ -40,9 +42,9 @@ NT opener to jump to 3N.
     3X slam interest, control
     3N to play
     4C Gerber
-  3C 5!c332
-  3D 5!d332
-  3N! no 4M, max
+  3C 5!c332, max
+  3D 5!d332, max
+  3N! no 4M, no 5m, max
     4C Gerber
 2N-3C GF, at least one 3+M
   3D! At least one 4M
