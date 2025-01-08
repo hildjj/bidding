@@ -70,10 +70,10 @@ Last Updated: 2025-01-05.
   2S 4-7, 6!S (like weak 2)
   2N! GF 3-suiter (4441, 5440)
     3C! Asking for short suit
-      3D 0-1!H
-      3H 0-1!S
-      3S 0-1!C
-      3N 0-1!D
+      3D 0-1!D
+      3H 0-1!H
+      3S 0-1!S
+      3N 0-1!C
     3N to play.  "That's nice, dear."
   3X 4--7 hcp, 7+ suit (like preempt) [sim](https://hildjj.github.io/bridge-deal/?name=Precision+1C-3X&stamp=1712605278417&code=eJzLyy8qyeBSUFA0MtI1MtZRSErMScxLTk0BChmaaQPJpMwUBUNnRSsQV0chsagkMy0zOTMxh4sLJBPAxVWcXwo2QaW4NLNEwVbBGcg20TXXUTDXdkYSdkEIuyAJeyCEPZCEgxHCwVBHGKtUgyRrgU4pT03M5gIA2ootdQ%3D%3D)
   3N DO NOT BID THIS (could be 65+ minors, I guess?)
