@@ -17,10 +17,10 @@
   "author": "Joe Hildebrand <joe-github@cursive.net>",
   "license": "MPL-2.0",
   "devDependencies": {
-    "@cto.af/eslint-config": "5.0.5",
-    "eslint": "9.15.0",
+    "@cto.af/eslint-config": "5.1.7",
+    "eslint": "9.19.0",
     "eslint-plugin-markdown": "5.1.0",
-    "hostlocal": "1.4.0",
+    "hostlocal": "1.4.2",
     "peggy": "^4.2.0"
   },
   "pnpm": {
@@ -29,7 +29,7 @@
       "micromatch": "^4.0.8"
     }
   },
-  "packageManager": "pnpm@9.14.2",
+  "packageManager": "pnpm@10.2.0",
   "dependencies": {
     "slug": "10.0.0"
   }
