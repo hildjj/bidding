@@ -46,7 +46,7 @@ Last Updated: 2025-01-05.
   3N 14--15, balanced [sim](https://hildjj.github.io/bridge-deal/?name=Precision+1C-3N&stamp=1712605317786&code=eJzLyy8qyeBSUFA0MtI1MtZRSErMScxLTk0BChmaaQPJpMwUBUNnRSsQV0chsagkMy0zOTMxh4sLJBPAxVWcXwo2wdBE19AUxQCQAmM_K4gMXAIAwZ0exQ%3D%3D)
 
 2N 22--23 hcp, balanced
-  3C stayman
+  3C [puppet](puppet.htm) stayman
   3D ->3!h
   3H ->3!s
   3S Minor suit stayman
@@ -57,34 +57,31 @@ Last Updated: 2025-01-05.
 
 ## Limited Openings
 
-1D 11--15, 4+!d [sim](https://hildjj.github.io/bridge-deal/?name=Precision+1D&stamp=1712605379089&code=eJzLyy8qyeBSUFC0MXFR0NdXSMnPUy9RSEpVSFTISC3KB8mYaTvrKJiCZfMLUvMUjJxBoqYgURNfDFEPHQUPBTtbBYR6Qw-ITLCOQjCaTDBIxtBY19BURyEpMScxLzk1BSHrB5Q1NARKAumkzBQFQxcuAFC1KNE%3D)
-  1HS 8+, 4+!h/!s [sim](https://hildjj.github.io/bridge-deal/?name=Precision+1D-1M&stamp=1712605394510&code=eJxlzs8KgkAQBvD7PMUXCB3ckC0ND9pFD3spgn0CzQWF2A3_nKJ3b8coo04ffL9hZqzrx5aAVRaXiCI0zq5H1AYVWtM7ln1YCCSzupux2BbcJtzGx79WCSgccizzUr1EC-gf0Sxyt5GJQF1dK3sxzaInr1J69Fl3DWRJxHkmGtw0vx0MUzciB59IQ_8Q39dZrugL9Qc1vVcFd8YHPQFRrDww)
-  1N 8-10, balanced (often passed!) [sim](https://hildjj.github.io/bridge-deal/?name=Precision+1D-1N&stamp=1712605407535&code=eJxlzrEKwjAUBdA9X3GdHEypTxNxqC7tkMUi5AsSE2hBEqn1_00qEtDpwj33wQtxmgcGrBrRoa7hYljPsB4Gg59ilsOm5ZCLxocP2LW5lbkVl79WcSicTyh7Uh_RHPpHdBbaVyQ5rLmbcPOuaJ-UKGFKOzpQx1jOK2PP-FrePla0LaccjVD6u-7ZG8V4NMA%3D)
-  2C 11+hcp, 5+!c, no 4M, forcing one round [sim](https://hildjj.github.io/bridge-deal/?name=Precision+1D-2C&stamp=1712605420385&code=eJxljsEOgjAQRO_9ivHkgRpSLB6MeoFDLxgTvgBoFRKzayr8vy2YkOhpsvN2JkPsx14Am5MukaawTNsRrUOD3nmO5JAUEvlM-eUIWRHdPLq6-nONhMHljPVfmYXUEvUPqSNR-53KJdrm2VDn7EqvgSoVYNB2sFClEFFvQrx5WmbrpJo7dLI2zLFwh4nfZFYccWffDfQAk4Pniaz4AHX7PRM%3D)
-  2D! 11+ hcp, 3+!d, forcing one round [sim](https://hildjj.github.io/bridge-deal/?name=Precision+1D-2D&stamp=1712605445090&code=eJxlzrEOgjAUBdC9X3GdHFpDCsXBqAsdWDAmfAHQKiSmz1T4f1sgIdHppfe83jxHfuwZsDsrjSSBIbcf0Vo06K2nKEdeCOSz0ts6pEVM85iq6i8tBUpcL9j2ZblILVD_SB1FZgeZC7TNq3GdNZvegkoZMMx2MJCasTjvjH1oWs5WvFqvmasU34rm3-Gdcb0WpHp3woN8N7gnyFl4mpxhXzBUPkI%3D)
-    2HS 11-15, 6+!d-5M
-    2N 11-13, balanced-ish
-    3C 14-15, 5+!c
-    3D 14-15 5+!d
-    3HS splinter: 14-15, singleton/void
-    3N 14-15 4!d
-  2HS game forcing
-  2N 16+ hcp, balanced [sim](https://hildjj.github.io/bridge-deal/?name=Precision+1D-2N&stamp=1712605465213&code=eJxljrEKwjAURfd8xXVySKSkJh1EXdohS4uQL0hMoIIkUuv_m9hCoE4XzrnvcUOc5pEAu7PoUFVwMexnWA-D0U8xm4a2DPJn48sH1G2mMlPR_1HFoHC9oPS5Woxm0Bujs-HHA5cM1jxNuHtX7JAs50mmtA8H3hGS80bIO36W2YL265pcbmj5sx7Vw2nDv1ShOb0%3D)
-  3C forcing
+1D! 11--15, 2+!d
+  1HS 8+, 4+!h/!s
+  1N 8-10, balanced (often passed!)
+  2C 11+hcp, 5+!c, no 4M, forcing to game unless 3C rebid
+  2D! 11+ hcp, 5+!d, no 4M, forcing to game unless 3C or 3D rebid
+  2HS weak.  less than invite, 6+
+  2N 11-13 balanced, no 4M
+  3C weak
   3D weak, 5!d [sim](https://hildjj.github.io/bridge-deal/?name=Precision+1D-3D&stamp=1712605481951&code=eJxlzrEKwjAYBOA9T3GdHJJSYhNBUZdmyFIR-gSJDbQoidSKr2_SFgo6_XDfz3E-DGNHgOwoFIoCbfCbEdbBoHNDSLKjFYOcNDydx7ZKqUypqP9SzaBxPmH953qWhqH5kSYJL3MuGax5GH9z7aqXqJxHjNf2LbgiJN0rIa_wnmcLWi9rpipB16IYiHwfp1O1FJQqO-DjzJ18ASH_OWg%3D)
   3HS splinter
   3N 14-15 balanced, no 4M [sim](https://hildjj.github.io/bridge-deal/?name=Precision+1D-3N&stamp=1712605664217&code=eJxlzrEKwjAQBuA9T_E7OTRSYhMHUZd2yNIi5AkSE6ggidT6_uZsoWing__777iYhrFnwOYkG5QlfIrbES7Aog9DIjkUNYf6anqGiH1NqaJUtqtUc2hczlj6Qk9iOMyfGBJR7YTicPZh4y34RbusQmTM0909RMMYzStjr_Se3pZFO39DZflzaV6ruuNKPjUMOoo%3D)
   4C splinter
 1H 11--15, 5+!h
   1S 8+ hcp, 4+!s
-  1N 8--12, balanced, mostly-forcing one round, not 4!s
+  1N 8--12, balanced, semi-forcing one round, not 4!s
+    P 11-12, balanced
     2CD 3+!c/!d (often 3, sometimes 2)
     2H rebid: 6+!h, min
     2S reverse: max, 45xx
     2N stop
     3CD max, invites
     3H max, 6+!h
+  2CD Game force
   2H 8-10, 3!h
+  2S Weak
   2N Jacoby 2NT (see [below](#jacoby-2nt))
   3H 10--11 total points usually 4!h, invites
   3S splinter
@@ -92,12 +89,14 @@ Last Updated: 2025-01-05.
   4CD splinter
 1S 11--15, 5+!s
   1N 8--12, balanced, mostly-forcing one round
+    P 11-12, balanced
     2CD 3+!c/!d (often 3, sometimes 2)
     2H 4+!h
     2S rebid: 6+!s, min
     2N stop
     3CDH max, invites
     3S max, 6+!s
+  2CDH Game force
   2S 8--10, 3!s
   2N Jacoby 2NT (see [below](#jacoby-2nt))
   3S 10--11 total points usually 4!s, invite
@@ -157,7 +156,7 @@ Last Updated: 2025-01-05.
   2HS To play
   2N! Forcing (see [below](#2d-2n-forcing)) [sim](https://hildjj.github.io/bridge-deal/?name=Precision+2D-2N&stamp=1712606540135&code=eJw1jr0OgkAQhPt7irGw4gjZ42iM2kBhozGxsBYO4RJyS_gpfHv3SGg2uzP7TSbwtPQKOI7swzLjAquRaxgNEvmQ3-R8yZZlePulR8fs0AxrPeMTHDgMPxkt7F2DxzbAlJErSuFEKvfgK3LRiVIqNM6mEjuNjE2LCNTewVSH0_4x8dr1Em0tWaWi-1Rq5nUrS5TsyGNDEo0vT40P3dZF4OD-0wc4Hg%3D%3D)
   3C To play
-  3D Relay to 3N
+  3D! Control-Asking Bid ([responses](#cab-responses))
   3H Invite to 4H, promises 5H
   3S Invite to 4S, promises 5S
   3N To play
@@ -181,41 +180,27 @@ Last Updated: 2025-01-05.
 
 ## 2D-2N (forcing)
 
-3C! 3415 weak clubs (bid 2C with better clubs) [sim](https://hildjj.github.io/bridge-deal/?name=Precision+2D-2N-3C&stamp=1712606384451&code=eJw1TrsOgkAQ7O8rhsKKM2ThaEy0wVZjZw0cwkVyS3jE-PfuYa6ZZGZ3Hp7ndVDAYWLn1wVnGI1CI9cgkbMMT7cO6Jkt2nFrFtTegv34Fehgbho8dR55Jd9JFWMuKIQTHamUOEOlsMZZ5NfkFOWZt36QHGPIKBWuD6UW3vY9RGm03IMj1Xjx3Drf773i9TaaAhaVBIcijU9Xv_9b1Q_wODt_)
-  3D! RKC Hearts
-  3HSN To play
-  4C Invite to 5C
-  4N! RKC Spades
-3D! 4315 weak clubs (bid 2C with better clubs) [sim](https://hildjj.github.io/bridge-deal/?name=Precision+2D-2N-3D&stamp=1712606407789&code=eJw1Tj0PgjAU3PsrjsGJGvJoWUx0wVXj5gwUoZH0kQIx_ntbTJdL7t67D8d-HQVwmNm6dcEZWkJJlBIU5KLA064jBmaDbtraBY0zYDd9A_TQNwmee4eyDt9ZnWIuUIETHamS0IqqwFprUF6zU5I9b8MYcrQmLUS8PoRYeNv3EOXJco-OXOLFvrNu2HuD15lkiqhicCyS-PTN-79V_ADwTzuA)
-  3HSN To play
-  4C To play
-  4D! RKC Hearts
-  4N! RKC Spades
-3H! 11--13 HCP. 4414 [sim](https://hildjj.github.io/bridge-deal/?name=Precision+2D-2N-3H&stamp=1712606580832&code=eJzLyy8qyeBSUDA01DU01lEwMTE0AfKSMlMUjFwUrcDCpjoKRfml6Rk5lRBpLpBsABdXcX4pVKs2TIsfSIe2jkJaflFyZl66Qn5eKkhvXgpME4g09oAaDLMPAJDNIQs%3D)
-  3SN To play
-  4C To play
-  4D! RKC Hearts
-  4N! RKC Spades
-3S! 14--15 HCP. 4414 [sim](https://hildjj.github.io/bridge-deal/?name=Precision+2D-2N-3S&stamp=1712615085949&code=eJzLyy8qyeBSUFB0cQST3kDS0ETX0FRHwcTE0ATIS8pMUTByUbRSMDQECxfll6Zn5FRCpLlAsgFcXMX5pWBjDA21YVr8wFq0dRTS8ouSM_PSFfLzUkGa81JgukCksQfUZGOIhToKefklCi6OCvlFCkDHAADTmCcN)
-  3N To play
-  4C To play
-  4D! RKC Hearts
-  4N! RKC Spades
-3N! 14--15 HCP. 4414, A!d or K!d [sim](https://hildjj.github.io/bridge-deal/?name=Precision+2D-2N-3N&stamp=1712615272721&code=eJzLyy8qyeBSUDA00TU01VEwMTE00VFwccQQ8QaKJGWmKBi5KFopGBqCpYryS9MzcirBSri4QLIBXFzF-aUQAw21YVr8wFq0dRTS8ouSM_PSFfLzUkGa81LguvKgzgBxjf2ADACf7SV2)
-  4C! Slam try in clubs
-  4D! RKC Hearts
-  4HS To play
-  4N! RKC Spades
-  5C To play
-4C! 11--13 HCP, 4405 [sim](https://hildjj.github.io/bridge-deal/?name=Precision+2D-2N-4C&stamp=1712616035528&code=eJzLyy8qyeBSUDA01DU01lEwMTEwBfKSMlMUjFwUrcDCpjoKRfml6Rk5lUBpQxMuLpBsABdXcX4pVKs2TIsfWIu2jkJaflFyZl66Qn5eKkhzXgpcVx7UQhDXxBlqBcJmADghI-c%3D)
-  4D! RKC Hearts
-  4HS To play
-  4N! RKC Spades
-4D! 14--15 HCP. 4405 [sim](https://hildjj.github.io/bridge-deal/?name=Precision+2D-2N-4D&stamp=1712616191213&code=eJzLyy8qyeBSUDA00TU01VEwMTEwBfKSMlMUjFwUrRQMDcHCRfml6Rk5lUBpQxMuLpBsABdXcX4pRKuhNkyLH1iLto5CWn5RcmZeukJ-XipIc14KXFce1EIQ1wRsBYrNADsLI_I%3D)
-  4HS To play
-  4N! RKC Hearts
-  5C To play
-  5D! RKC Spades
+3C! 11-13
+  3D! Shape?
+    3H 3415
+    3S 4315
+    3N 4414 or 4405 (both)
+3D! 14-15, 4414
+3H! 14-15, 3415
+3S! 14-15, 4315
+3N! 14-15, 4405
+
+After any of these, responder bidding !d is a Control-Asking Bid
+([responses](#cab-responses)).
+
+## CAB Responses
+
+Responses to a Control-Asking Bid, where: A=2, K=1 control.
+
+1step!) 0-2 controls (at most one A or K)
+2step!) 3 controls (A+K or K+K+K)
+3step!) 4 controls (A+A, A+K+K, or K+K+K+K)
+etc.
 
 ## Balanced Hands
 
@@ -251,12 +236,7 @@ Good players who are prepared will often find an excuse to bid over 1C, even wit
   XX! 9+, any 4441 or 5440, GF
     1N! (or 2N with 2X overcall) Where is shortness?
       2X! Short in bid suit
-        2N Control-asking bid (A=2 controls, K=1), please bid past game if 4+ controls (because majors)
-          3C 0-2 controls
-          3D 3 controls
-          3H 4 controls
-          3S 5 controls
-          3N 6+ controls
+        2N! Control-asking bid.  Please bid past game if 4+ controls (because majors) ([responses](#cab-responses))
         * Natural, sets trump
   1D! 5-8, any shape (like a good 1D response to 1C), systems on as if 1C-(P)-1D
   * Everything else, systems on, but with 9+
