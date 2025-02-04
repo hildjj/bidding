@@ -71,14 +71,17 @@ Last Updated: 2025-01-05.
   4C splinter
 1H 11--15, 5+!h
   1S 8+ hcp, 4+!s
-  1N 8--12, balanced, mostly-forcing one round, not 4!s
+  1N 8--12, balanced, semi-forcing one round, not 4!s
+    P 11-12, balanced
     2CD 3+!c/!d (often 3, sometimes 2)
     2H rebid: 6+!h, min
     2S reverse: max, 45xx
     2N stop
     3CD max, invites
     3H max, 6+!h
+  2CD Game force
   2H 8-10, 3!h
+  2S Weak
   2N Jacoby 2NT (see [below](#jacoby-2nt))
   3H 10--11 total points usually 4!h, invites
   3S splinter
@@ -86,12 +89,14 @@ Last Updated: 2025-01-05.
   4CD splinter
 1S 11--15, 5+!s
   1N 8--12, balanced, mostly-forcing one round
+    P 11-12, balanced
     2CD 3+!c/!d (often 3, sometimes 2)
     2H 4+!h
     2S rebid: 6+!s, min
     2N stop
     3CDH max, invites
     3S max, 6+!s
+  2CDH Game force
   2S 8--10, 3!s
   2N Jacoby 2NT (see [below](#jacoby-2nt))
   3S 10--11 total points usually 4!s, invite
