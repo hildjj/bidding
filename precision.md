@@ -11,7 +11,7 @@ This started from notes on
 "The Precision Bidding System in Bridge" by C.C. Wei (Edited by Alan Truscott),
 2nd Edition, 1973. (ISBN 0-486-21171-1).
 
-Last Updated: 2025-01-05.
+Last Updated: !{new Date().toLocaleString('sv')}.
 
 ## Strong Openings
 
@@ -38,10 +38,20 @@ Last Updated: 2025-01-05.
               2step!) strength
             NewSuit!) asking
   1N 8--10 HCP, balanced [sim](https://hildjj.github.io/bridge-deal/?name=Precision+1C-1N&stamp=1712605226480&code=eJzLyy8qyeBSUFA0MtI1MtZRSErMScxLTk0BChmaaQPJpMwUBUNnRSsQV0chsagkMy0zOTMxh4sLJBPAxVWcXwo2wULX0ABFP1innxVYAiEOAKeGHmk%3D)
+    2C! Stayman
+    2DHS Natural, 5+
+    3C Natural, 5+!c, no 4M, unbalanced
+      3D 5+D, no club fit
+      3HS Cue bid in support of !c
+      3N No minor fit
+      4C Invite 6C, no !h/!s cue
   2CD 9+ hcp, 5+!c/!d (prefer to bid NT instead of this if 5332 unless suit is AKQxx or KQJxx) [sim](https://hildjj.github.io/bridge-deal/?name=Precision+1C-2m&stamp=1712605240674&code=eJzLyy8qyeBSUFA0MtI1MtZRSErMScxLTk0BChmaaQPJpMwUBUNnRSsQV0chsagkMy0zOTMxh4sLJBPAxVWcXwo2QaW4NLNEwVbBGci2BCo11XbWUXBWsLNVcEGSdYHLukANN1KpBsnVWkHFoVwuANayJwg%3D)
     Raises) same as majors
   2HS! 4--7 hcp, 6!h/!s (like weak 2) [sim](https://hildjj.github.io/bridge-deal/?name=Precision+1C-2M&stamp=1712605255100&code=eJzLyy8qyeBSUFA0MtI1MtZRSErMScxLTk0BChmaaQPJpMwUBUNnRSsQV0chsagkMy0zOTMxh4sLJBPAxVWcXwo2QaW4NLNEwVbBA8g20TXXUTDz4EISDoYLB3NBjTVSqQZJ1lpBJaBcLgABLCXU)
   2N 11--13 or 16+ hcp, balanced [sim](https://hildjj.github.io/bridge-deal/?name=Precision+1C-2N&stamp=1712605266455&code=eJzLyy8qyeBSUFA0MtI1MtZRSErMScxLTk0BChmaaQPJpMwUBUNnRSsQV0chsagkMy0zOTMxh4sLJBPAxVWcXwo2wdBQ1xDDABQ-SIORnxVEpUJ-EZoCAAazJPU%3D)
+    3C! Stayman
+    3DHS Natural, 5+
+    3N To play, but bid more with 16+
   3X! 4--7 hcp, 7+ suit (like preempt) [sim](https://hildjj.github.io/bridge-deal/?name=Precision+1C-3X&stamp=1712605278417&code=eJzLyy8qyeBSUFA0MtI1MtZRSErMScxLTk0BChmaaQPJpMwUBUNnRSsQV0chsagkMy0zOTMxh4sLJBPAxVWcXwo2QaW4NLNEwVbBGcg20TXXUTDXdkYSdkEIuyAJeyCEPZCEgxHCwVBHGKtUgyRrgU4pT03M5gIA2ootdQ%3D%3D)
   3N 14--15, balanced [sim](https://hildjj.github.io/bridge-deal/?name=Precision+1C-3N&stamp=1712605317786&code=eJzLyy8qyeBSUFA0MtI1MtZRSErMScxLTk0BChmaaQPJpMwUBUNnRSsQV0chsagkMy0zOTMxh4sLJBPAxVWcXwo2wdBE19AUxQCQAmM_K4gMXAIAwZ0exQ%3D%3D)
 
@@ -236,7 +246,7 @@ Good players who are prepared will often find an excuse to bid over 1C, even wit
   XX! 9+, any 4441 or 5440, GF
     1N! (or 2N with 2X overcall) Where is shortness?
       2X! Short in bid suit
-        2N! Control-asking bid.  Please bid past game if 4+ controls (because majors) ([responses](#cab-responses))
+        shortSuit!) Control-asking bid.  Please bid past game if 4+ controls (because majors) ([responses](#cab-responses))
         * Natural, sets trump
   1D! 5-8, any shape (like a good 1D response to 1C), systems on as if 1C-(P)-1D
   * Everything else, systems on, but with 9+
