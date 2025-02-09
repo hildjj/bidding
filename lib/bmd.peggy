@@ -2,6 +2,7 @@
 import {
   Bid, BidTable, Definition, Doc, Explanation, Head, Link, P, Suits
 } from './ast.js';
+import {escapeHTML} from './utils.js';
 }}
 {
 const indents = []
@@ -100,6 +101,7 @@ explanation
 
 part
   = "!" @suits
+  / "!" "{" code:Code "}" { return escapeHTML(eval(code)) }
   / "!"
   / "->" { return "&rarr;" }
   / "--" { return "-" }
@@ -137,6 +139,9 @@ XID_Start
 
 XID_Continue
   = c:ValidSourceCharacter &{ return /\p{XID_Continue}/u.test(c) }
+
+Code
+  = $((![{}] SourceCharacter)+ / "{" Code "}")*
 
 // JS allows unpaired surrogates in strings, source code, etc.
 SourceCharacter
