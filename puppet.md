@@ -5,9 +5,9 @@ description: Integrating different Puppet sources into one place
 github: hildjj/bidding
 ---
 
-Last updated: 2025-01-05
+Last Updated: !{lastUpdate()}
 
-## Introduction
+## Puppet Stayman
 
 This is set up without point counts so that it should work with any NT range.
 The 2c response always promises at least an invite, so it's safe for a max

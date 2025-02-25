@@ -3,10 +3,16 @@ import {
   Bid, BidTable, Definition, Doc, Explanation, Head, Link, P, Suits
 } from './ast.js';
 import {escapeHTML} from './utils.js';
+import fs from 'node:fs';
 }}
 {
 const indents = []
 let indent_level = 0;
+
+function lastUpdate() {
+  const stat = fs.statSync(options.grammarSource);
+  return stat.mtime.toLocaleString('sv');
+}
 }
 
 doc
