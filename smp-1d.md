@@ -11,7 +11,7 @@ This started from notes on
 "Standard Modern Precision" by Daniel Neill,
 2nd Edition, 2017. (ISBN 978-1-77140-179-1).
 
-Last Updated: !{new Date().toLocaleString('sv')}.
+Last Updated: !{lastUpdate()}
 
 # 1D
 

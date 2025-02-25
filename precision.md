@@ -11,7 +11,7 @@ This started from notes on
 "The Precision Bidding System in Bridge" by C.C. Wei (Edited by Alan Truscott),
 2nd Edition, 1973. (ISBN 0-486-21171-1).
 
-Last Updated: !{new Date().toLocaleString('sv')}.
+Last Updated: !{lastUpdate()}
 
 ## Strong Openings
 

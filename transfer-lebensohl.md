@@ -5,7 +5,7 @@ description: Integrating different Lebensohl sources into one place
 github: hildjj/bidding
 ---
 
-Last updated: 2025-01-05
+Last Updated: !{lastUpdate()}
 
 ## Transfer Lebensohl
 
