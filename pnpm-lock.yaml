@@ -17,8 +17,8 @@ importers:
         version: 10.0.0
     devDependencies:
       '@cto.af/eslint-config':
-        specifier: 5.1.11
-        version: 5.1.11(eslint@9.21.0)(typescript@5.7.3)
+        specifier: 5.1.12
+        version: 5.1.12(eslint@9.21.0)(typescript@5.7.3)
       eslint:
         specifier: 9.21.0
         version: 9.21.0
@@ -34,8 +34,8 @@ importers:
 
 packages:
 
-  '@cto.af/eslint-config@5.1.11':
-    resolution: {integrity: sha512-8bgv/0Pk8Agbt07e65jgr35PlQWJW3Im62k4MwtOiG5SKheOw/JGd4tRgDLSK3K9sluhwf36puh5NlXjiDz2GA==}
+  '@cto.af/eslint-config@5.1.12':
+    resolution: {integrity: sha512-MX22SSChetyUKjjETC4g7xNWxQ7XAYO3oSKKEW60K+bCa4ldYJZ2nkO3XnIZJQgFJtJeW8rd38b6/WuqA/WddQ==}
     engines: {node: '>=18'}
 
   '@cto.af/http-headers@0.1.0':
@@ -843,7 +843,7 @@ packages:
 
 snapshots:
 
-  '@cto.af/eslint-config@5.1.11(eslint@9.21.0)(typescript@5.7.3)':
+  '@cto.af/eslint-config@5.1.12(eslint@9.21.0)(typescript@5.7.3)':
     dependencies:
       '@eslint/json': 0.10.0
       '@stylistic/eslint-plugin': 4.0.1(eslint@9.21.0)(typescript@5.7.3)
