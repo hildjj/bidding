@@ -23,10 +23,10 @@ to 15.
 
 Responses:
 
-1H 4!h, 6+hcp (NV or good suit, otherwise 8+).  Hearts first with both, even if 5!s/4!h
+1H 4+!h, 6+hcp (NV or good suit, otherwise 8+).  Hearts first with both, even if 5!s/4!h
   1S 4!s
   2S Reverse.  14-15.  5+!d/4!s or 6!d/5!s.  Still not forcing.
-1S 4!s, 6+hcp (NV or good suit, otherwise 8+)
+1S 4+!s, 6+hcp (NV or good suit, otherwise 8+)
   2H Reverse.  14-15.  5+!d/4!H or 6!d/5!h.  Still not forcing.
 1HS Either
   1N 11-12 balanced, <4!s.
