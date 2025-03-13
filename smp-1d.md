@@ -42,20 +42,22 @@ Responses:
 2C Invite+, FORCING, no 4M
   2D 5+!d, unbalanced, <4!c
     3CD NOT forcing
+  2H! 11-12 balanced, nothing about !h [responses](#2h-rebid)
+  2S! Undisclosed splinter for !cd (short !h or !s) [responses](#2s-rebid)
   2N 4441 (exactly) 11-13
   3C 4+!c
   3D Very good 6+!d, GAME FORCING
+  3HS 6!d, 5!hs, GAME FORCING
   3N 4441 (exactly) 14-15
 2D! Invite+, FORCING, no 4M
-  2N 6+!d balanced, 11-13
-  3D 4+!d
-  3N 6+!d balanced, 14-15
-2CD Shared responses
   2H! 11-12 balanced, nothing about !h [responses](#2h-rebid)
   2S! Undisclosed splinter for !cd (short !h or !s) [responses](#2s-rebid)
+  2N 6+!d balanced, 11-13
   3C! 5!d, 3!c, 4M, GAME FORCING
     3D! Which major?
+  3D 4+!d
   3HS 6!d, 5!hs, GAME FORCING
+  3N 6+!d balanced, 14-15
 2H! 5!s, 4-5!h, 6-9hcp
 2S! 5!s, 4-5!h, 10-12hcp (with GF, 1D-1S-something then NMF, 4SF, or jump)
   2N! Describe?
