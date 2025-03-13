@@ -252,9 +252,9 @@ Good players who are prepared will often find an excuse to bid over 1C, even wit
   D! 5-8 hcp, no 5 card suit or 9+ hcp
   minX) 5-8 hcp 5+X
   jumpX) 9+ hcp 5+X
-  minN) 6-8, balanced, stopper
-  jumpN) 9-11 balanced
-  2jumpN) 12-14 balanced
+  minNT) 6-8, balanced, stopper
+  jumpNT) 9-11 balanced
+  2jumpNT) 12-14 balanced
   2X (cuebid of implied suit) 9+, short in X
 
 1C-(2N+) Unlikely this is their hand
