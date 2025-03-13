@@ -20,14 +20,14 @@ Last Updated: !{lastUpdate()}
     a) Negative  0--7 HCP, nothing about diamonds [sim](https://hildjj.github.io/bridge-deal/?name=Precision+1C-1D+weak&stamp=1712605175272&code=eJzLyy8qyeBSUFA0MtI1MtZRSErMScxLTk0BChmaaQPJpMwUBUNnRSsQV0chsagkMy0zOTMxh4sLJBPAxVWcXwoxwUTXXEfBzBfONNeOALINdM1hprgATSktLk3MyakECaOYBgAsDSLK)
     b) Impossible Negative 8+ HCP, 4441.  Jump in singleton next [sim](https://hildjj.github.io/bridge-deal/?name=Precision+1C-1D+strong&stamp=1712605182788&code=eJzLyy8qyeBSUFA0MtI1MtZRSErMScxLTk0BChmaaQPJpMwUBUNnRSsQV0chsagkMy0zOTMxh4sLJBPAxVWcXwo2wQIknVepYGJiYgjT5wLUV1pcmpiTU6lgoGuOoh8AuLUhPw%3D%3D)
   1HS 8+ HCP. 5+!h/!s [sim](https://hildjj.github.io/bridge-deal/?name=Precision+1C-1M&stamp=1712605212995&code=eJzLyy8qyeBSUFA0MtI1MtZRSErMScxLTk0BChmaaQPJpMwUBUNnRSsQV0chsagkMy0zOTMxh4sLJBPAxVWcXwo2QaW4NLNEwVbBA8i2ACo11fbQUQi2sfVAkguGywXDjFapBsnVWkHFoVwuAKF1Jv4%3D)
-    2HS! raise, asking
+    2HS! raise, trump-asking bid (TAB)
       1step!) none of top three honors
       2step!) 5!h/!s one of top three honors
       3step!) 5!h/!s two of top three honors
       4step!) 6+!h/!s one of top three honors
       5step!) 6+!h/!s two of top three honors
       6step!) all three of top honors
-        NewSuit!) asking
+        NewSuit!) suit-asking bid (SAB)
           1step!) no control (xxx)
           2step!) 3rd round control (xx or Qxx)
           3step!) 2nd round control (x or Kx)
@@ -67,18 +67,7 @@ Last Updated: !{lastUpdate()}
 
 ## Limited Openings
 
-1D! 11--15, 2+!d
-  1HS 8+, 4+!h/!s
-  1N 8-10, balanced (often passed!)
-  2C 11+hcp, 5+!c, no 4M, forcing to game unless 3C rebid
-  2D! 11+ hcp, 5+!d, no 4M, forcing to game unless 3C or 3D rebid
-  2HS weak.  less than invite, 6+
-  2N 11-13 balanced, no 4M
-  3C weak
-  3D weak, 5!d [sim](https://hildjj.github.io/bridge-deal/?name=Precision+1D-3D&stamp=1712605481951&code=eJxlzrEKwjAYBOA9T3GdHJJSYhNBUZdmyFIR-gSJDbQoidSKr2_SFgo6_XDfz3E-DGNHgOwoFIoCbfCbEdbBoHNDSLKjFYOcNDydx7ZKqUypqP9SzaBxPmH953qWhqH5kSYJL3MuGax5GH9z7aqXqJxHjNf2LbgiJN0rIa_wnmcLWi9rpipB16IYiHwfp1O1FJQqO-DjzJ18ASH_OWg%3D)
-  3HS splinter
-  3N 14-15 balanced, no 4M [sim](https://hildjj.github.io/bridge-deal/?name=Precision+1D-3N&stamp=1712605664217&code=eJxlzrEKwjAQBuA9T_E7OTRSYhMHUZd2yNIi5AkSE6ggidT6_uZsoWing__777iYhrFnwOYkG5QlfIrbES7Aog9DIjkUNYf6anqGiH1NqaJUtqtUc2hczlj6Qk9iOMyfGBJR7YTicPZh4y34RbusQmTM0909RMMYzStjr_Se3pZFO39DZflzaV6ruuNKPjUMOoo%3D)
-  4C splinter
+1D! 11--15, 2+!d, see [SMP 1D Responses](smp-1d.htm)
 1H 11--15, 5+!h
   1S 8+ hcp, 4+!s
   1N 8--12, balanced, semi-forcing one round, not 4!s
@@ -253,19 +242,19 @@ Good players who are prepared will often find an excuse to bid over 1C, even wit
 
 1C!-(1D) No matter what 1D means
   P! 0-4, systems on as if 1C-(P)-1D, but not forcing
-  X! 5-8, systems on as if 1C-(P)-1D (or 9-10 balanced no stopper, or 9+ 4441 impossible negative)
+  D! 5-8, systems on as if 1C-(P)-1D (or 9-10 balanced no stopper, or 9+ 4441 impossible negative)
   1N 8-10, stopper in one of their suits, if suit(s) were implied.  If no stopper, double.
   2N 11-13 or 16+ as usual.  Nothing specific about stoppers, because points.
   * Everything else, systems on, but with 9+
 
 1C-(1H->2S) Effective interference!
   P! 0-4 hcp
-  D 5-8 hcp, no 5 card suit or 9+ hcp
+  D! 5-8 hcp, no 5 card suit or 9+ hcp
   minX) 5-8 hcp 5+X
   jumpX) 9+ hcp 5+X
-  minN) 6-8, balanced, stopper
-  jumpN) 9-11 balanced
-  2jumpN) 12-14 balanced
+  minNT) 6-8, balanced, stopper
+  jumpNT) 9-11 balanced
+  2jumpNT) 12-14 balanced
   2X (cuebid of implied suit) 9+, short in X
 
 1C-(2N+) Unlikely this is their hand
