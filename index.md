@@ -18,3 +18,7 @@ Last Updated: !{lastUpdate()}
 - [Transfer Lebensohl](transfer-lebensohl.htm)
 
 - [1d responses in SMP](smp-1d.htm)
+
+## Convention Cards
+
+- [Joe-Tim](Joe-Tim-Precision.pdf)
