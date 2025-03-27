@@ -1,0 +1,238 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Integrating different Puppet sources into one place">
+  <meta name="author" content="Joe Hildebrand">
+  <title>Puppet Stayman (hildebrand-2024)</title>
+<style>
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.tree {
+  display: grid;
+  grid-template-columns: repeat(100, auto) [end];
+}
+
+.lf {
+  grid-column: 1/1;
+}
+
+.cr {
+  grid-column-end: end;
+}
+
+.col, .title {
+  padding-left: 3px;
+  padding-right: 7px;
+  white-space: nowrap;
+  border       : solid #ddd;
+  border-width : 0 0 0 2px;
+}
+
+div {
+  padding-top: 3px;
+}
+
+.last {
+  border-bottom-left-radius: 16px;
+}
+
+.clubs, .spades {
+  color: #555;
+}
+
+.hearts, .diamonds {
+  color: red;
+}
+
+.pilcrow {
+  visibility: hidden;
+  color: #777;
+  text-decoration: none;
+  font-size: 0.8em;
+  padding-left: 8px;
+}
+
+.head:hover .pilcrow {
+  visibility: visible;
+}
+
+.alert {
+  border-radius: 4px;
+  border: 1px solid red;
+  padding-left: 2px;
+  padding-right: 2px;
+}
+
+main {
+  margin-right: 10em;
+}
+
+.outline {
+  border-radius: 8px;
+  border: 1px solid black;
+  position: fixed;
+  top: 9em;
+  width: 10em;
+  right: 0.5em;
+  padding: 0.5em;
+  padding-right: 0;
+  margin: 0;
+  background-color: bisque;
+}
+
+.outline ul {
+  padding: 0;
+  margin: 0;
+  list-style: none
+}
+
+/*!
+ * "Fork me on GitHub" CSS ribbon v0.2.3 | MIT License
+ * https://github.com/simonwhitaker/github-fork-ribbon-css
+*/
+
+.github-fork-ribbon {
+  width: 12.1em;
+  height: 12.1em;
+  position: absolute;
+  overflow: hidden;
+  top: 0;
+  right: 0;
+  z-index: 9999;
+  pointer-events: none;
+  font-size: 13px;
+  text-decoration: none;
+  text-indent: -999999px;
+}
+
+.github-fork-ribbon.fixed {
+  position: fixed;
+}
+
+.github-fork-ribbon:hover, .github-fork-ribbon:active {
+  background-color: rgba(0, 0, 0, 0.0);
+}
+
+.github-fork-ribbon:before, .github-fork-ribbon:after {
+  /* The right and left classes determine the side we attach our banner to */
+  position: absolute;
+  display: block;
+  width: 15.38em;
+  height: 1.54em;
+
+  top: 3.23em;
+  right: -3.23em;
+
+  box-sizing: content-box;
+  transform: rotate(45deg);
+}
+
+.github-fork-ribbon:before {
+  content: "";
+
+  /* Add a bit of padding to give some substance outside the "stitching" */
+  padding: .38em 0;
+
+  /* Set the base colour */
+  background-color: #a00;
+
+  /* Set a gradient: transparent black at the top to almost-transparent black at the bottom */
+  background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.15));
+
+  /* Add a drop shadow */
+  box-shadow: 0 .15em .23em 0 rgba(0, 0, 0, 0.5);
+
+  pointer-events: auto;
+}
+
+.github-fork-ribbon:after {
+  /* Set the text from the data-ribbon attribute */
+  content: attr(data-ribbon);
+
+  /* Set the text properties */
+  color: #fff;
+  font: 700 1em "Helvetica Neue", Helvetica, Arial, sans-serif;
+  line-height: 1.54em;
+  text-decoration: none;
+  text-shadow: 0 -.08em rgba(0, 0, 0, 0.5);
+  text-align: center;
+  text-indent: 0;
+
+  /* Set the layout properties */
+  padding: .15em 0;
+  margin: .15em 0;
+
+  /* Add "stitching" effect */
+  border-width: .08em 0;
+  border-style: dotted;
+  border-color: #fff;
+  border-color: rgba(255, 255, 255, 0.7);
+}
+</style>
+</head>
+<body>  <a class="github-fork-ribbon" href="https://github.com/hildjj/bidding" data-ribbon="Fork me on GitHub" title="Fork me on GitHub">Fork me on GitHub</a>
+  <div class="outline">
+    <ul>
+      <li style="padding-inline-start: 1em"><a href="#puppet-stayman"> Puppet Stayman</a></li>
+    </ul>
+  </div>
+  <main>
+    <p>Last Updated: 2025-03-27 15:28:13 </p>
+    <h2 id="puppet-stayman" class="head"> Puppet Stayman<a href="#puppet-stayman" class="pilcrow">¶</a></h2>
+    <p>This is set up without point counts so that it should work with any NT range. The 2c response always promises at least an invite, so it's safe for a max NT opener to jump to 3N. </p>
+    <div class="tree">
+      <div class="lf"></div><div class="title">1N-2<span class="clubs">&clubs;</span></div><div class="cr" style="grid-column-start: 3;">>= invitational, no 5+M, no 6+m, not 4441, not 5440 <a href=https://hildjj.github.io/bridge-deal/?name=Puppet+15-17&stamp=1713800865835&code=eJzLyy8qyeBSUDA01TU011FISsxJzEtOTTEFCiVlpigY-gEZXCBWABdXcX4pWK2iooKNmbMOkHBR0NdXCClKzCtOSy0CySgk5lUqmJiYGOoASQNTEGlqAFJUlFpckJ-XomAcAVRmoQ3UbOoBIoKhFhk5c0GsAQBvYiNt>sim</a></div>
+      <div class="lf"></div><div class="col"></div><div class="title"><span class="alert" title="Alert!">2<span class="diamonds">&diams;</span></span></div><div class="cr" style="grid-column-start: 4;">at least one 4M <a href=https://hildjj.github.io/bridge-deal/?name=Puppet+15-17%2C+1N-2C-2D&stamp=1713913853313&code=eJwtTrsOgjAU3fsVh9kaqLZKiIuBwQVjooNrkRpJsJe0dfDvbZHlJPc8ryUXXgwQai32HJ0etX2YXnHINtLd0EOcq78cb5aIC2OePnMsy3DY1TxCgzzHzWnrn8YlBdp-IaUUsUoWqVCqIpmc8RPZHtt7tJWrGFanBNdlb1NXaMh4WAqYHL0Hb9I3y_ZsaSocA0ajfQDZJPNoh2p_NCI1ig>sim</a></div>
+      <div class="lf"></div><div class="col"></div><div class="col"></div><div class="title"><span class="alert" title="Alert!">2<span class="hearts">&hearts;</span></span></div><div class="cr" style="grid-column-start: 5;">4S invite <a href=https://hildjj.github.io/bridge-deal/?name=Puppet+15-17%2C+1N-2C-2D-2H&stamp=1713914771796&code=eJxNTj0PwiAQ3fsrnrOYFgU1xMW0Q5cakzq4UouxSYUGcPDfC9gYl8vd-7qnjfWPDKB8RXcEnRylvqmeE7AmwN3Qg57Elw53FoFzljnzSrbFAodtScKokOe4WKndXdnIQOo3GGM0RLEiBjJeRJFVbjK6x-aaAvbLYOd1HG0AWBs2Vs-_16VAZZSDNh6TNc_Bqdhs7pEklcDRY1TSeRgdaRLk4M2_qBa_5IR-AN5rPqs>sim</a></div>
+      <div class="lf"></div><div class="col"></div><div class="col"></div><div class="title"><span class="alert" title="Alert!">2<span class="spades">&spades;</span></span></div><div class="cr" style="grid-column-start: 5;">4H invite <a href=https://hildjj.github.io/bridge-deal/?name=Puppet+15-17%2C+1N-2C-2D-2S&stamp=1713914825783&code=eJxNTj0PwiAQ3fsrXmcxLQpqiItpB5cakzq4UouxSYUGcPDfC9gYl8vd-7qnjfWPDKB8SbcEnRylvqmeE7AmwN3Qg57Elw53FoFzljnzSrY8x35TkTBqFAUuVmp3VzYykPoNxhgNUayMgYyXUWSVm4zusb6mgN0i2PkxjjYALG6snX-vKoHaKAdtPCZrnoNTsdncI0lqgYPHqKTzMDrSJMjBm39RK37JCf0A3q0-tg>sim</a></div>
+      <div class="lf"></div><div class="col"></div><div class="col"></div><div class="title"><span class="alert" title="Alert!">2N</span></div><div class="cr" style="grid-column-start: 5;">Neither, invite</div>
+      <div class="lf"></div><div class="col"></div><div class="col"></div><div class="title"><span class="alert" title="Alert!">3<span class="clubs">&clubs;</span></span></div><div class="cr" style="grid-column-start: 5;">Both, GF (See 2N-3C-3D-4C)</div>
+      <div class="lf"></div><div class="col"></div><div class="col"></div><div class="title"><span class="alert" title="Alert!">3<span class="diamonds">&diams;</span></span></div><div class="cr" style="grid-column-start: 5;">Both, Invite (See 2N-3C-3D-4D)</div>
+      <div class="lf"></div><div class="col"></div><div class="col"></div><div class="title"><span class="alert" title="Alert!">3<span class="hearts">&hearts;</span></span></div><div class="cr" style="grid-column-start: 5;">4S, GF</div>
+      <div class="lf"></div><div class="col"></div><div class="col"></div><div class="title"><span class="alert" title="Alert!">3<span class="spades">&spades;</span></span></div><div class="cr" style="grid-column-start: 5;">4H, GF</div>
+      <div class="lf"></div><div class="col"></div><div class="col"></div><div class="title">3N</div><div class="cr" style="grid-column-start: 5;">Neither, to play</div>
+      <div class="lf"></div><div class="col"></div><div class="title"><span class="alert" title="Alert!">2<span class="hearts">&hearts;</span></span></div><div class="cr" style="grid-column-start: 4;">5H</div>
+      <div class="lf"></div><div class="col"></div><div class="col"></div><div class="title">3<span class="clubs">&clubs;</span><span class="diamonds">&diams;</span><span class="spades">&spades;</span></div><div class="cr" style="grid-column-start: 5;">slam interest, control</div>
+      <div class="lf"></div><div class="col"></div><div class="col"></div><div class="title">3<span class="hearts">&hearts;</span></div><div class="cr" style="grid-column-start: 5;">invite</div>
+      <div class="lf"></div><div class="col"></div><div class="col"></div><div class="title">3N</div><div class="cr" style="grid-column-start: 5;">to play</div>
+      <div class="lf"></div><div class="col"></div><div class="col"></div><div class="title">4<span class="clubs">&clubs;</span><span class="diamonds">&diams;</span></div><div class="cr" style="grid-column-start: 5;">splinter</div>
+      <div class="lf"></div><div class="col"></div><div class="col"></div><div class="title">4<span class="hearts">&hearts;</span></div><div class="cr" style="grid-column-start: 5;">to play</div>
+      <div class="lf"></div><div class="col"></div><div class="col"></div><div class="title">4N</div><div class="cr" style="grid-column-start: 5;">RKC <span class="hearts">&hearts;</span></div>
+      <div class="lf"></div><div class="col"></div><div class="title"><span class="alert" title="Alert!">2<span class="spades">&spades;</span></span></div><div class="cr" style="grid-column-start: 4;">5S</div>
+      <div class="lf"></div><div class="col"></div><div class="col"></div><div class="title">2N</div><div class="cr" style="grid-column-start: 5;">Invite 3N</div>
+      <div class="lf"></div><div class="col"></div><div class="col"></div><div class="title">3<span class="clubs">&clubs;</span><span class="diamonds">&diams;</span><span class="hearts">&hearts;</span></div><div class="cr" style="grid-column-start: 5;">slam interest, control</div>
+      <div class="lf"></div><div class="col"></div><div class="col"></div><div class="title">3<span class="spades">&spades;</span></div><div class="cr" style="grid-column-start: 5;">Invite</div>
+      <div class="lf"></div><div class="col"></div><div class="col"></div><div class="title">3N</div><div class="cr" style="grid-column-start: 5;">to play</div>
+      <div class="lf"></div><div class="col"></div><div class="col"></div><div class="title">4<span class="clubs">&clubs;</span><span class="diamonds">&diams;</span><span class="hearts">&hearts;</span></div><div class="cr" style="grid-column-start: 5;">splinter</div>
+      <div class="lf"></div><div class="col"></div><div class="col"></div><div class="title">4<span class="spades">&spades;</span></div><div class="cr" style="grid-column-start: 5;">to play</div>
+      <div class="lf"></div><div class="col"></div><div class="col"></div><div class="title">4N</div><div class="cr" style="grid-column-start: 5;">RKC <span class="spades">&spades;</span></div>
+      <div class="lf"></div><div class="col"></div><div class="title"><span class="alert" title="Alert!">2N</span></div><div class="cr" style="grid-column-start: 4;">no 4M, min</div>
+      <div class="lf"></div><div class="col"></div><div class="col"></div><div class="title">3<span class="clubs">&clubs;</span><span class="diamonds">&diams;</span><span class="hearts">&hearts;</span><span class="spades">&spades;</span></div><div class="cr" style="grid-column-start: 5;">slam interest, control</div>
+      <div class="lf"></div><div class="col"></div><div class="col"></div><div class="title">3N</div><div class="cr" style="grid-column-start: 5;">to play</div>
+      <div class="lf"></div><div class="col"></div><div class="col"></div><div class="title">4<span class="clubs">&clubs;</span></div><div class="cr" style="grid-column-start: 5;">Gerber</div>
+      <div class="lf"></div><div class="col"></div><div class="title">3<span class="clubs">&clubs;</span></div><div class="cr" style="grid-column-start: 4;">5<span class="clubs">&clubs;</span>332, max</div>
+      <div class="lf"></div><div class="col"></div><div class="title">3<span class="diamonds">&diams;</span></div><div class="cr" style="grid-column-start: 4;">5<span class="diamonds">&diams;</span>332, max</div>
+      <div class="lf"></div><div class="col"></div><div class="title"><span class="alert" title="Alert!">3N</span></div><div class="cr" style="grid-column-start: 4;">no 4M, no 5m, max</div>
+      <div class="lf"></div><div class="col"></div><div class="col"></div><div class="title">4<span class="clubs">&clubs;</span></div><div class="cr" style="grid-column-start: 5;">Gerber</div>
+      <div class="lf"></div><div class="title">2N-3<span class="clubs">&clubs;</span></div><div class="cr" style="grid-column-start: 3;">GF, at least one 3+M</div>
+      <div class="lf"></div><div class="col"></div><div class="title"><span class="alert" title="Alert!">3<span class="diamonds">&diams;</span></span></div><div class="cr" style="grid-column-start: 4;">At least one 4M</div>
+      <div class="lf"></div><div class="col"></div><div class="col"></div><div class="title"><span class="alert" title="Alert!">3<span class="hearts">&hearts;</span></span></div><div class="cr" style="grid-column-start: 5;">4S</div>
+      <div class="lf"></div><div class="col"></div><div class="col"></div><div class="title"><span class="alert" title="Alert!">3<span class="spades">&spades;</span></span></div><div class="cr" style="grid-column-start: 5;">4H</div>
+      <div class="lf"></div><div class="col"></div><div class="col"></div><div class="title"><span class="alert" title="Alert!">3N</span></div><div class="cr" style="grid-column-start: 5;">Neither</div>
+      <div class="lf"></div><div class="col"></div><div class="col"></div><div class="title"><span class="alert" title="Alert!">4<span class="clubs">&clubs;</span></span></div><div class="cr" style="grid-column-start: 5;">Both, slam interest</div>
+      <div class="lf"></div><div class="col"></div><div class="col"></div><div class="col"></div><div class="title"><span class="alert" title="Alert!">4<span class="diamonds">&diams;</span></span></div><div class="cr" style="grid-column-start: 6;">RKC <span class="hearts">&hearts;</span></div>
+      <div class="lf"></div><div class="col"></div><div class="col"></div><div class="col"></div><div class="title">4<span class="hearts">&hearts;</span></div><div class="cr" style="grid-column-start: 6;">To play</div>
+      <div class="lf"></div><div class="col"></div><div class="col"></div><div class="col"></div><div class="title">4<span class="spades">&spades;</span></div><div class="cr" style="grid-column-start: 6;">To play</div>
+      <div class="lf"></div><div class="col"></div><div class="col"></div><div class="col"></div><div class="title"><span class="alert" title="Alert!">4N</span></div><div class="cr" style="grid-column-start: 6;">RKC <span class="spades">&spades;</span></div>
+      <div class="lf"></div><div class="col"></div><div class="col"></div><div class="title"><span class="alert" title="Alert!">4<span class="diamonds">&diams;</span></span></div><div class="cr" style="grid-column-start: 5;">Both, no slam interest</div>
+      <div class="lf"></div><div class="col"></div><div class="title"><span class="alert" title="Alert!">3<span class="hearts">&hearts;</span></span></div><div class="cr" style="grid-column-start: 4;">5H</div>
+      <div class="lf"></div><div class="col"></div><div class="title"><span class="alert" title="Alert!">3<span class="spades">&spades;</span></span></div><div class="cr" style="grid-column-start: 4;">5S</div>
+      <div class="lf"></div><div class="col"></div><div class="title"><span class="alert" title="Alert!">3N</span></div><div class="cr" style="grid-column-start: 4;">No 4M</div>
+    </div>
+  </main>
+</body>
+</html>
