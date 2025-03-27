@@ -205,8 +205,7 @@ etc.
 
 Most of these are duplicates, but it's nice to have them all in one place.
 
-P      11-12, <4D.  Don't be a hero.
-1D-1N  11-12, 4D+
+1D-1N  11-12
 1N     13-15
 1C-1N  16-18
 1C-2N  19-21

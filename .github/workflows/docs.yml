@@ -24,7 +24,7 @@ jobs:
           cache: 'pnpm'
       - name: Dependencies
         run: pnpm install -r
-      - run: npm run build
+      - run: npm run ci
       - name: Deploy Docs
         uses: peaceiris/actions-gh-pages@v4
         with:

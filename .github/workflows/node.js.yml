@@ -2,21 +2,15 @@
 name: Tests
 
 on:
-  push:
-    branches: [main]
   pull_request:
     branches: [main]
-
 jobs:
   build:
-
     strategy:
       matrix:
-        node-version: [22.x]
+        node-version: [22]
         platform: [ubuntu-latest]
-
     runs-on: ${{ matrix.platform }}
-
     steps:
       - uses: actions/checkout@v4
         with:
@@ -32,4 +26,3 @@ jobs:
         run: pnpm install -r
       - name: Test ${{ matrix.node-version }} ${{ matrix.platform }}
         run: npm run ci
-
