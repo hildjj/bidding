@@ -17,15 +17,15 @@
   "author": "Joe Hildebrand <joe-github@cursive.net>",
   "license": "MPL-2.0",
   "devDependencies": {
-    "@cto.af/eslint-config": "5.1.13",
+    "@cto.af/eslint-config": "5.1.14",
     "@pdf-lib/fontkit": "1.1.1",
-    "eslint": "9.22.0",
+    "eslint": "9.23.0",
     "eslint-plugin-markdown": "5.1.0",
     "hostlocal": "1.4.2",
     "pdf-lib": "1.17.1",
     "peggy": "^4.2.0"
   },
-  "packageManager": "pnpm@10.6.3",
+  "packageManager": "pnpm@10.7.0",
   "dependencies": {
     "slug": "10.0.0"
   }
