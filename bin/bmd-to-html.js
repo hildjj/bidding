@@ -7,13 +7,17 @@ import path from 'node:path';
 
 const srcs = process.argv.slice(2);
 
+fs.rmSync('docs', {recursive: true, force: true});
+fs.mkdirSync('docs');
 for (const source of srcs) {
   if (source === 'README.md') {
     continue;
   }
   const text = fs.readFileSync(source, 'utf-8');
+  const p = path.parse(source);
+  p.dir = path.join(p.dir, 'docs');
   const outFile = path.format({
-    ...path.parse(source),
+    ...p,
     base: '',
     ext: '.htm',
   });
