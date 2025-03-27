@@ -1,6 +1,7 @@
 .cache/
 .cert/
 *.tex
+docs/
 lib/bmd.js
 node_modules/
 package-lock.json
