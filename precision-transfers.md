@@ -41,15 +41,7 @@ Last Updated: 2025-01-05.
       3X! shortness
       3N 8-10
     2* Natural
-  1S! 8+ HCP, balanced or semi-balanced with strength outside longer suits (e.g. 5422 shitty majors)
-    1N! asking count
-      2C! 8-10
-      2D! 11-13
-      2H! 14-15
-      2S! 16+
-        nonjump) natural
-        2N! Asking shape
-          3* Bid 4-5 card suits up the line
+  1S! 8+ HCP. Balanced, or semi-balanced with strength outside longer suits (e.g. 5m4M22) (see [below](#1c-1s-responses))
   1N! 8+HCP, 5+ clubs, unsuitable for NT
     2C see 1C-1H
     2DHS natural
@@ -136,7 +128,72 @@ Last Updated: 2025-01-05.
   3S 10--11 total points usually 4!s, invite
   3N 13--15 hcp 3!s
   4CDH splinter
-1N  13--15, balanced
+1N  13--15, balanced (see [below](#nt-responses))
+2C!  11--15 HCP. 6+!c OR 5+!c and 4!h/!s [sim](https://hildjj.github.io/bridge-deal/?name=Precision+2C&stamp=1712616707124&code=eJzLyy8qyeBSUFA0NNY1NNVRSErMScxLTk0BChkagkVMnXUUTHwRfDNtZyAnKTNFwchZ0QoiqmCabOKrkF8EkgQAIQgSfw%3D%3D)
+  2D!  11+ hcp, forcing one round [sim](https://hildjj.github.io/bridge-deal/?name=Precision+2C-2D&stamp=1712616489409&code=eJzLyy8qyeBSUFA0NNY1NNVRSErMScxLTk0BChkagkVMnXUUTHwRfDNtZyAnKTNFwchZ0QoiqmCabOKrkF8EluQCyQVwcRXnl4KNNjTUhmlwAWvQ1lFIyy9KzsxLV8jPS1Uoyi_NSwEAc8EhRQ%3D%3D)
+    2HS 11--13 hcp, 4!h/!s [sim](https://hildjj.github.io/bridge-deal/?name=Precision+2C-2D-2M&stamp=1712617550558&code=eJzLyy8qyeBSUDA01DU01lEw1XbWUTDxBQokZaYoGDkrWoFlTBVMk018FfKLFMy0nbm4QHIBXFzF-aVQvdowDS5gDdo6Cmn5RcmZeekK-XmpCkX5pXkpcF15UBtVikszSxRsFTyAbBMPHQUbk2AkURAbLAA2VqUaJFwLcYyxggmUDwArhTAo)
+    2N 14--15, 6+!c, two side suits stopped [sim](https://hildjj.github.io/bridge-deal/?name=Precision+2C-2D-2N&stamp=1712617316261&code=eJxFjrESgjAQRPt8xVpZJA4TBixooVUcxx_QJEgs7pgk-P0CCpZ7u29viUPqBaCLgy4VjrKexMNb5PWugtbTFaUpTuCwmGL2LkJEHr-clivQLIBU6DgYT08wOQQeyW4U_b5lGW5t01a4upczCb6DZRdpn9Df3w4x8TC4ENfq81y9LVTIEb39xz6OUTXN)
+    3C 11--13, 6+!c, usually one side suit stopped [sim](https://hildjj.github.io/bridge-deal/?name=Precision+2C-2D-3C&stamp=1712617331384&code=eJxFjs0OgjAQhO99ivHkgRpSEQ9c4WowxhfAtkgJ6ZL-mPj2agU9zs58O2PJhYEBQuxEwXHM6re4GYV9vanStUQpDyeQSyb7eGfGPMWFy1agSUDG0ZOTxt5BVsNRtOpH2aUtz3Ftm7bCRY9aBpgeirS324Che2j4QPOsnV9eF-uW70KO6GM3TU8IeKP-8RdJUDjn)
+    3D xx56 [sim](https://hildjj.github.io/bridge-deal/?name=Precision+2C-2D-3C&stamp=1712617380578&code=eJw9jbsOgCAQBPv7irUGC1QobLE18Rt829wlqAmfrxi1nMxOliUcKwHG5KbUcF7DNjf324jCZ_UjLOxQtZAApzxRch3RLuebqi9onkBpzBKGjRcITwhy8vhX_B4mLNM-RusuiRgiDQ%3D%3D)
+    3HS 14--15 hcp, 4!h/!s [sim](https://hildjj.github.io/bridge-deal/?name=Precision+2C-2D-3M&stamp=1712617592387&code=eJxNjjsOwjAQRHufYpDS2RQLa4qIVKZIEwmJG5DwceOVnLhC3B07CYhu5o2edoPE6akA4i1ZA6udAXcZXP2AndvUIMoLbM8dJOKgnVJlOys1Slpc0l_hNAva4C6x9-EBCTdESWH4WWG9WI3JT2jQ5sytwZEvf7TkGRRrX70KftfLm-C1fwAvVjAz)
+    3N 14--15, 6+!c, solid [sim](https://hildjj.github.io/bridge-deal/?name=Precision+2C-2D-3N&stamp=1712617775417&code=eJzLyy8qyeBSUDA00TU01VEw03bWUXB29A4ECiVlpigYOStaKRgaAuUUTJNNfBXyi0BKuLhAcgFcXMX5pRDdhtowDS5gDdo6Cmn5RcmZeekK-XmpCkX5pXkpcF15UDtBXGM_kHq45QrF-TmZKQCk5CW2)
+  2HS Weak, 6+!h/!s or 5+!h/!s with no clubs [sim](https://hildjj.github.io/bridge-deal/?name=Precision+2C-2M&stamp=1712618450702&code=eJzLyy8qyeBSUFA0NNY1NNVRSErMScxLTk0BChkagkVMnXUUTHwRfDNtZyAnKTNFwchZ0QoiqmCabOKrkF8EluQCyQVwcRXnl4KNVikuzSxRsFXwALINdA0NQEYg2KYeOgoGzkjKgpGUIdimwVBlYItVqkGKa60UylMTs0EKoQIgJ5jCOXn5Csk5pUnFADYON3g%3D)
+    3HS 15 HCP, 4!h/!s
+  2N ~11 hcp, invites 3N [sim](https://hildjj.github.io/bridge-deal/?name=Precision+2C-2N&stamp=1712618663555&code=eJzLyy8qyeBSUFA0NNY1NNVRSErMScxLTk0BChkagkVMnXUUTHwRfDNtZyAnKTNFwchZ0QoiqmCabOKrkF8EluQCyQVwcRXnl4KNNjSEqfcDqq8zNNRRyMwryyxJBQAEhB10)
+  3C 8--10 hcp, !c support [sim](https://hildjj.github.io/bridge-deal/?name=Precision+2C-3C&stamp=1712618785043&code=eJzLyy8qyeBSUFA0NNY1NNVRSErMScxLTk0BChkagkVMnXUUTHwRfDNtZyAnKTNFwchZ0QoiqmCabOKrkF8EluQCyQVwcRXnl4KNttA1NNBRMIZrMwZpgwgm55QmKRSXFhQAXQEAobwg9Q%3D%3D)
+2D!  11-15 HCP. 4414ish. 3415, 4315, 4405 weak clubs. [sim](https://hildjj.github.io/bridge-deal/?name=Precision+2D&stamp=1712605881025&code=eJw1jLsOgzAMRXe-4jJ0S4TyWqqWJQxdOnXoXBpEIqEYQRj693UGFss-1-dm2kpsgMtKKZcdd1gBI6AFFOPWPPh88dZ1eKcSMRMFfJdj3PHJAZSXH48J9ilA65ShffWcZ4-RP4t7GOZKSeUEbnrgWFbHSleFMQXoob2eHxsdc-Rqa5Vt_titKVg%3D)
+  2HS To play
+  2N! Forcing (see [below](#2d-2n-forcing)) [sim](https://hildjj.github.io/bridge-deal/?name=Precision+2D-2N&stamp=1712606540135&code=eJw1jr0OgkAQhPt7irGw4gjZ42iM2kBhozGxsBYO4RJyS_gpfHv3SGg2uzP7TSbwtPQKOI7swzLjAquRaxgNEvmQ3-R8yZZlePulR8fs0AxrPeMTHDgMPxkt7F2DxzbAlJErSuFEKvfgK3LRiVIqNM6mEjuNjE2LCNTewVSH0_4x8dr1Em0tWaWi-1Rq5nUrS5TsyGNDEo0vT40P3dZF4OD-0wc4Hg%3D%3D)
+  3C To play
+  3D Relay to 3N
+  3H Invite to 4H, promises 5H
+  3S Invite to 4S, promises 5S
+  3N To play
+2HS Weak: 6--10 HCP, 6+!h/!s
+  2N Ogust
+    3C Weak Hand, Weak Suit
+    3D Weak Hand, Strong Suit
+    3H Strong Hand, Weak Suit
+    3S Strong Hand, Strong Suit
+    3N AKQ in original pre-empt suit
+3N Gambling
+
+## 1C-1S responses
+
+1S! 8+ HCP. Balanced, or semi-balanced with strength outside longer suits (e.g. 5m4M22)
+  1N! asking info
+    2C! 8-11
+      2D! Forcing Stayman
+        2H 4H, may have 4S
+        2S 4S, denies 4H
+        2N! Flat, exactly 8, takes off game force
+        3C 5C, no 4M
+        3D 5D, no 4M
+        3H 5H
+        3S 5S
+        3N Flat, 9-11
+      2HS 5 cards
+      2N! exactly 16, takes off game force
+    2D! 12+, no 4M
+      2HS 4 cards
+      2N Asks for cuebids
+      3X 5 cards
+      3N 16-18 balanced
+    2H 12+, 4H
+    2S 12+, 4S
+    3C 12+, 5C good suit, otherwise prefer 2D
+    3D 12+, 5D good suit, otherwise prefer 2D
+    3H 12+, 5H
+    3S 12+, 5S
+  2N! Exactly 16 balanced, takes off game force
+    3C! GF Half-Puppet
+  3N no 4M, 17-18
+    4C Gerber
+  4C Gerber
+
+## NT responses
+
+1N 13--15, balanced
   2C Stayman
     2H 4h, might have 4s
       2S! 5+!s,4!h invitational
@@ -174,34 +231,6 @@ Last Updated: 2025-01-05.
     4N Blackwood
   4H ->4!s 6+!s
     4N Blackwood
-2C!  11--15 HCP. 6+!c OR 5+!c and 4!h/!s [sim](https://hildjj.github.io/bridge-deal/?name=Precision+2C&stamp=1712616707124&code=eJzLyy8qyeBSUFA0NNY1NNVRSErMScxLTk0BChkagkVMnXUUTHwRfDNtZyAnKTNFwchZ0QoiqmCabOKrkF8EkgQAIQgSfw%3D%3D)
-  2D!  11+ hcp, forcing one round [sim](https://hildjj.github.io/bridge-deal/?name=Precision+2C-2D&stamp=1712616489409&code=eJzLyy8qyeBSUFA0NNY1NNVRSErMScxLTk0BChkagkVMnXUUTHwRfDNtZyAnKTNFwchZ0QoiqmCabOKrkF8EluQCyQVwcRXnl4KNNjTUhmlwAWvQ1lFIyy9KzsxLV8jPS1Uoyi_NSwEAc8EhRQ%3D%3D)
-    2HS 11--13 hcp, 4!h/!s [sim](https://hildjj.github.io/bridge-deal/?name=Precision+2C-2D-2M&stamp=1712617550558&code=eJzLyy8qyeBSUDA01DU01lEw1XbWUTDxBQokZaYoGDkrWoFlTBVMk018FfKLFMy0nbm4QHIBXFzF-aVQvdowDS5gDdo6Cmn5RcmZeekK-XmpCkX5pXkpcF15UBtVikszSxRsFTyAbBMPHQUbk2AkURAbLAA2VqUaJFwLcYyxggmUDwArhTAo)
-    2N 14--15, 6+!c, two side suits stopped [sim](https://hildjj.github.io/bridge-deal/?name=Precision+2C-2D-2N&stamp=1712617316261&code=eJxFjrESgjAQRPt8xVpZJA4TBixooVUcxx_QJEgs7pgk-P0CCpZ7u29viUPqBaCLgy4VjrKexMNb5PWugtbTFaUpTuCwmGL2LkJEHr-clivQLIBU6DgYT08wOQQeyW4U_b5lGW5t01a4upczCb6DZRdpn9Df3w4x8TC4ENfq81y9LVTIEb39xz6OUTXN)
-    3C 11--13, 6+!c, usually one side suit stopped [sim](https://hildjj.github.io/bridge-deal/?name=Precision+2C-2D-3C&stamp=1712617331384&code=eJxFjs0OgjAQhO99ivHkgRpSEQ9c4WowxhfAtkgJ6ZL-mPj2agU9zs58O2PJhYEBQuxEwXHM6re4GYV9vanStUQpDyeQSyb7eGfGPMWFy1agSUDG0ZOTxt5BVsNRtOpH2aUtz3Ftm7bCRY9aBpgeirS324Che2j4QPOsnV9eF-uW70KO6GM3TU8IeKP-8RdJUDjn)
-    3D xx56 [sim](https://hildjj.github.io/bridge-deal/?name=Precision+2C-2D-3C&stamp=1712617380578&code=eJw9jbsOgCAQBPv7irUGC1QobLE18Rt829wlqAmfrxi1nMxOliUcKwHG5KbUcF7DNjf324jCZ_UjLOxQtZAApzxRch3RLuebqi9onkBpzBKGjRcITwhy8vhX_B4mLNM-RusuiRgiDQ%3D%3D)
-    3HS 14--15 hcp, 4!h/!s [sim](https://hildjj.github.io/bridge-deal/?name=Precision+2C-2D-3M&stamp=1712617592387&code=eJxNjjsOwjAQRHufYpDS2RQLa4qIVKZIEwmJG5DwceOVnLhC3B07CYhu5o2edoPE6akA4i1ZA6udAXcZXP2AndvUIMoLbM8dJOKgnVJlOys1Slpc0l_hNAva4C6x9-EBCTdESWH4WWG9WI3JT2jQ5sytwZEvf7TkGRRrX70KftfLm-C1fwAvVjAz)
-    3N 14--15, 6+!c, solid [sim](https://hildjj.github.io/bridge-deal/?name=Precision+2C-2D-3N&stamp=1712617775417&code=eJzLyy8qyeBSUDA00TU01VEw03bWUXB29A4ECiVlpigYOStaKRgaAuUUTJNNfBXyi0BKuLhAcgFcXMX5pRDdhtowDS5gDdo6Cmn5RcmZeekK-XmpCkX5pXkpcF15UDtBXGM_kHq45QrF-TmZKQCk5CW2)
-  2HS Weak, 6+!h/!s or 5+!h/!s with no clubs [sim](https://hildjj.github.io/bridge-deal/?name=Precision+2C-2M&stamp=1712618450702&code=eJzLyy8qyeBSUFA0NNY1NNVRSErMScxLTk0BChkagkVMnXUUTHwRfDNtZyAnKTNFwchZ0QoiqmCabOKrkF8EluQCyQVwcRXnl4KNVikuzSxRsFXwALINdA0NQEYg2KYeOgoGzkjKgpGUIdimwVBlYItVqkGKa60UylMTs0EKoQIgJ5jCOXn5Csk5pUnFADYON3g%3D)
-    3HS 15 HCP, 4!h/!s
-  2N ~11 hcp, invites 3N [sim](https://hildjj.github.io/bridge-deal/?name=Precision+2C-2N&stamp=1712618663555&code=eJzLyy8qyeBSUFA0NNY1NNVRSErMScxLTk0BChkagkVMnXUUTHwRfDNtZyAnKTNFwchZ0QoiqmCabOKrkF8EluQCyQVwcRXnl4KNNjSEqfcDqq8zNNRRyMwryyxJBQAEhB10)
-  3C 8--10 hcp, !c support [sim](https://hildjj.github.io/bridge-deal/?name=Precision+2C-3C&stamp=1712618785043&code=eJzLyy8qyeBSUFA0NNY1NNVRSErMScxLTk0BChkagkVMnXUUTHwRfDNtZyAnKTNFwchZ0QoiqmCabOKrkF8EluQCyQVwcRXnl4KNttA1NNBRMIZrMwZpgwgm55QmKRSXFhQAXQEAobwg9Q%3D%3D)
-2D!  11-15 HCP. 4414ish. 3415, 4315, 4405 weak clubs. [sim](https://hildjj.github.io/bridge-deal/?name=Precision+2D&stamp=1712605881025&code=eJw1jLsOgzAMRXe-4jJ0S4TyWqqWJQxdOnXoXBpEIqEYQRj693UGFss-1-dm2kpsgMtKKZcdd1gBI6AFFOPWPPh88dZ1eKcSMRMFfJdj3PHJAZSXH48J9ilA65ShffWcZ4-RP4t7GOZKSeUEbnrgWFbHSleFMQXoob2eHxsdc-Rqa5Vt_titKVg%3D)
-  2HS To play
-  2N! Forcing (see [below](#2d-2n-forcing)) [sim](https://hildjj.github.io/bridge-deal/?name=Precision+2D-2N&stamp=1712606540135&code=eJw1jr0OgkAQhPt7irGw4gjZ42iM2kBhozGxsBYO4RJyS_gpfHv3SGg2uzP7TSbwtPQKOI7swzLjAquRaxgNEvmQ3-R8yZZlePulR8fs0AxrPeMTHDgMPxkt7F2DxzbAlJErSuFEKvfgK3LRiVIqNM6mEjuNjE2LCNTewVSH0_4x8dr1Em0tWaWi-1Rq5nUrS5TsyGNDEo0vT40P3dZF4OD-0wc4Hg%3D%3D)
-  3C To play
-  3D Relay to 3N
-  3H Invite to 4H, promises 5H
-  3S Invite to 4S, promises 5S
-  3N To play
-2HS Weak: 6--10 HCP, 6+!h/!s
-  2N Ogust
-    3C Weak Hand, Weak Suit
-    3D Weak Hand, Strong Suit
-    3H Strong Hand, Weak Suit
-    3S Strong Hand, Strong Suit
-    3N AKQ in original pre-empt suit
-3N Gambling
 
 ## Jacoby 2NT
 
@@ -214,48 +243,24 @@ Last Updated: 2025-01-05.
 
 ## 2D-2N (forcing)
 
-3C! 3415 weak clubs (bid 2C with better clubs) [sim](https://hildjj.github.io/bridge-deal/?name=Precision+2D-2N-3C&stamp=1712606384451&code=eJw1TrsOgkAQ7O8rhsKKM2ThaEy0wVZjZw0cwkVyS3jE-PfuYa6ZZGZ3Hp7ndVDAYWLn1wVnGI1CI9cgkbMMT7cO6Jkt2nFrFtTegv34Fehgbho8dR55Jd9JFWMuKIQTHamUOEOlsMZZ5NfkFOWZt36QHGPIKBWuD6UW3vY9RGm03IMj1Xjx3Drf773i9TaaAhaVBIcijU9Xv_9b1Q_wODt_)
-  3D! RKC Hearts
-  3HSN To play
-  4C Invite to 5C
-  4N! RKC Spades
-3D! 4315 weak clubs (bid 2C with better clubs) [sim](https://hildjj.github.io/bridge-deal/?name=Precision+2D-2N-3D&stamp=1712606407789&code=eJw1Tj0PgjAU3PsrjsGJGvJoWUx0wVXj5gwUoZH0kQIx_ntbTJdL7t67D8d-HQVwmNm6dcEZWkJJlBIU5KLA064jBmaDbtraBY0zYDd9A_TQNwmee4eyDt9ZnWIuUIETHamS0IqqwFprUF6zU5I9b8MYcrQmLUS8PoRYeNv3EOXJco-OXOLFvrNu2HuD15lkiqhicCyS-PTN-79V_ADwTzuA)
-  3HSN To play
-  4C To play
-  4D! RKC Hearts
-  4N! RKC Spades
-3H! 11--13 HCP. 4414 [sim](https://hildjj.github.io/bridge-deal/?name=Precision+2D-2N-3H&stamp=1712606580832&code=eJzLyy8qyeBSUDA01DU01lEwMTE0AfKSMlMUjFwUrcDCpjoKRfml6Rk5lRBpLpBsABdXcX4pVKs2TIsfSIe2jkJaflFyZl66Qn5eKkhvXgpME4g09oAaDLMPAJDNIQs%3D)
-  3SN To play
-  4C To play
-  4D! RKC Hearts
-  4N! RKC Spades
-3S! 14--15 HCP. 4414 [sim](https://hildjj.github.io/bridge-deal/?name=Precision+2D-2N-3S&stamp=1712615085949&code=eJzLyy8qyeBSUFB0cQST3kDS0ETX0FRHwcTE0ATIS8pMUTByUbRSMDQECxfll6Zn5FRCpLlAsgFcXMX5pWBjDA21YVr8wFq0dRTS8ouSM_PSFfLzUkGa81JgukCksQfUZGOIhToKefklCi6OCvlFCkDHAADTmCcN)
-  3N To play
-  4C To play
-  4D! RKC Hearts
-  4N! RKC Spades
-3N! 14--15 HCP. 4414, A!d or K!d [sim](https://hildjj.github.io/bridge-deal/?name=Precision+2D-2N-3N&stamp=1712615272721&code=eJzLyy8qyeBSUDA00TU01VEwMTE00VFwccQQ8QaKJGWmKBi5KFopGBqCpYryS9MzcirBSri4QLIBXFzF-aUQAw21YVr8wFq0dRTS8ouSM_PSFfLzUkGa81LguvKgzgBxjf2ADACf7SV2)
-  4C! Slam try in clubs
-  4D! RKC Hearts
-  4HS To play
-  4N! RKC Spades
-  5C To play
-4C! 11--13 HCP, 4405 [sim](https://hildjj.github.io/bridge-deal/?name=Precision+2D-2N-4C&stamp=1712616035528&code=eJzLyy8qyeBSUDA01DU01lEwMTEwBfKSMlMUjFwUrcDCpjoKRfml6Rk5lUBpQxMuLpBsABdXcX4pVKs2TIsfWIu2jkJaflFyZl66Qn5eKkhzXgpcVx7UQhDXxBlqBcJmADghI-c%3D)
-  4D! RKC Hearts
-  4HS To play
-  4N! RKC Spades
-4D! 14--15 HCP. 4405 [sim](https://hildjj.github.io/bridge-deal/?name=Precision+2D-2N-4D&stamp=1712616191213&code=eJzLyy8qyeBSUDA00TU01VEwMTEwBfKSMlMUjFwUrRQMDcHCRfml6Rk5lUBpQxMuLpBsABdXcX4pRKuhNkyLH1iLto5CWn5RcmZeukJ-XipIc14KXFce1EIQ1wRsBYrNADsLI_I%3D)
-  4HS To play
-  4N! RKC Hearts
-  5C To play
-  5D! RKC Spades
+3C! 11-13
+  3D! Shape?
+    3H 3415
+    3S 4315
+    3N 4414 or 4405 (both)
+3D! 14-15, 4414
+3H! 14-15, 3415
+3S! 14-15, 4315
+3N! 14-15, 4405
+
+After any of these, responder bidding !d is a Control-Asking Bid
+([responses](#cab-responses)).
 
 ## Balanced Hands
 
 Most of these are duplicates, but it's nice to have them all in one place.
 
-P      11-12, <4D.  Don't be a hero.
-1D-1N  11-12, 4D+
+1D-1N  11-12
 1N     13-15
 1C-1N  16-18
 1C-2N  19-21
