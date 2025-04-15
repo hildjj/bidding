@@ -7,10 +7,19 @@ import path from 'node:path';
 
 const srcs = process.argv.slice(2);
 
-const docs = path.join(process.cwd(), 'docs');
+const cwd = process.cwd();
+const docs = path.join(cwd, 'docs');
 fs.rmSync(docs, {recursive: true, force: true});
 fs.mkdirSync(docs);
 fs.writeFileSync(path.join(docs, '.nojekyll'), '', 'utf8');
+for (const f of fs.readdirSync(cwd)) {
+  if (f.endsWith('.pdf')) {
+    const outFile = path.join(docs, f);
+    const outRel = path.relative(cwd, outFile);
+    console.error(`${f} -> ${outRel}`);
+    fs.copyFileSync(f, outFile);
+  }
+}
 
 for (const source of srcs) {
   if (source === 'README.md') {
@@ -24,7 +33,7 @@ for (const source of srcs) {
     base: '',
     ext: '.htm',
   }));
-  const outRel = path.relative(process.cwd(), outFile);
+  const outRel = path.relative(cwd, outFile);
 
   try {
     const tree = bmd.parse(text, {grammarSource: source});
