@@ -1,6 +1,7 @@
 export default {
   port: 5252,
-  open: 'precision.htm',
+  open: 'index.htm',
+  dir: 'docs',
   glob: [
     '*.md',
     'lib/ast.js',
@@ -10,5 +11,4 @@ export default {
   ],
   initial: true,
   rawMarkdown: true,
-  caSubject: '/C=US/ST=Colorado/L=Denver/O=_HostLocal/CN=hostlocal',
 };

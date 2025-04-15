@@ -186,7 +186,8 @@ Last Updated: 2025-01-05.
     3H 12+, 5H
     3S 12+, 5S
   2N! Exactly 16 balanced, takes off game force
-    3C! GF Half-Puppet
+    3C! GF Puppet
+    4C Gerber
   3N no 4M, 17-18
     4C Gerber
   4C Gerber

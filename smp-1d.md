@@ -17,9 +17,8 @@ Last Updated: !{lastUpdate()}
 
 11-15, 2+!d.  Not suitable for 1N (13-15).  No 5M unless 6!d.  Not suitable
 for 2C (5c4M with good clubs or 6+c).  Announce: "Could be short".
-
 No jumps by opener are forcing; responder is captain since opener is limited
-to 15.
+to 15. [sim](https://hildjj.github.io/bridge-deal/?name=SMP+1D&stamp=1743348638300&code=eJw9jrEOgjAYhHef4pgpIUXbwbDp4IKa-ASl_UkJpGgpGt7eVo3rfd9dzk0-2A2QZZwXXDBUuWGopUZZ4uqp8PRIWOSaYdek9HInh-rAsMyLGsc1Yb79lFs1KqfJiL_HzxHLtCm-5QFhglVPgjjd0HcdpIlK_cPBkn_1MzG4KSQlsrY34Mc9GrWiJcw2fn4D0XEwug)
 
 Responses:
 
@@ -58,18 +57,21 @@ Responses:
   3D 4+!d
   3HS 6!d, 5!hs, GAME FORCING
   3N 6+!d balanced, 14-15
-2H! 5!s, 4-5!h, 6-9hcp
-2S! 5!s, 4-5!h, 10-12hcp (with GF, 1D-1S-something then NMF, 4SF, or jump)
-  2N! Describe?
+2H! 5!s AND 4-5!h, 6-9hcp (preempt-reverse-flannery)
+2S! 5!s AND 4-5!h, 10-12hcp (invite-reverse-flannery) (with GF, 1D-1S-something then NMF, 4SF, or jump)
+  2N! (for either 2!h or 2!s) Describe?
     3C min, 5!s4!h
     3D max, 5!s4!h
     3H min, 5!s5!h
     3S max, 5!s5!h
-2N 11-13 balanced, no 4M
+  3C 5-5 minors
+2N 11-12 balanced, no 4M
+  3HS strength in bid suit, shortness in other major
+  4HS 6D, 5M
 3C! Both minors (5-4 either way) 6-10hcp
 3D! 6+!d, 5-10
 3HS! Weak, 7+
-3N 14-15 balanced, no 4M
+3N 13-16 balanced, no 4M
 4C! Both minors (5-5)  6-10hcp
 4D! Weak, 7+
 4HS! Natural, preempt or limited-strong, 8+ or good 7+
