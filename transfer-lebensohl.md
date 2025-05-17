@@ -7,7 +7,7 @@ github: hildjj/bidding
 
 Last Updated: !{lastUpdate()}
 
-## Transfer Lebensohl
+# Transfer Lebensohl
 
 1N 15-17
   D With any meaning
@@ -50,8 +50,35 @@ After a transfer:
 Weak two, followed by a double in the direct overcall seat only.
 
 2DHS weak
-  X Takeout
+  D Takeout
     P didn't have 3 in support, probably
-      X Transfer Lebensohl on as if takeout doubler had bid 1N; Figure doubler for about 13 points until they say something else.
+      * Transfer Lebensohl on as if takeout doubler had bid 1N; Figure doubler for about 13 points until they say something else.
 
 NOT on after 2X-P-P-X, since direct overcall seat didn't have enough points to act.
+
+## Examples
+
+### To play
+
+1N-(2!H)-2!S: Let's play 2!S please.
+
+1N-(2!S)-2N!-(P)-3!C!-(P)-3D: Let's play 3!D, please.
+
+### Invite+
+
+1N-(2!H)-3!C!: I invite+ you to game, with 5+ diamonds.  Bid 3!D to say you have a minimum.  I will bid on if I have enough for game.
+
+1N-(2!H)-3!D!: I invite+ you to game, with 5+ spades (transfer
+*through* the opponent's heart suit).  Bid 3!S to say you have a minimum. I will bid on if I have enough for game.
+
+### Stayman
+
+1N-(2!H)-3!H!: Do you have 4S?  I don't have a heart stopper.
+
+1N-(2!H)-2N!-(P)-3!C!-(P)-3!H!: Do you have 4S?  I have a heart stopper.  Want to play 3N or 4!S?
+
+### Direct to 3N
+
+1N-(2!H)-3N!: I don't have a heart stopper.
+
+1N-(2!H)-2N!-(P)-3!C!-(P)-3N!: I have a heart stopper.
