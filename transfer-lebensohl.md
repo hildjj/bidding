@@ -50,8 +50,8 @@ After a transfer:
 Weak two, followed by a double in the direct overcall seat only.
 
 2DHS weak
-  X Takeout
+  D Takeout
     P didn't have 3 in support, probably
-      X Transfer Lebensohl on as if takeout doubler had bid 1N; Figure doubler for about 13 points until they say something else.
+      * Transfer Lebensohl on as if takeout doubler had bid 1N; Figure doubler for about 13 points until they say something else.
 
 NOT on after 2X-P-P-X, since direct overcall seat didn't have enough points to act.
