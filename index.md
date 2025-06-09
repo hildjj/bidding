@@ -22,3 +22,4 @@ Last Updated: !{lastUpdate()}
 ## Convention Cards
 
 - [Joe-Tim](Joe-Tim-Precision.pdf)
+- [Joe-Meg](ConventionCard-Joe_Meg.pdf)
