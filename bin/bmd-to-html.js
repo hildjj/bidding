@@ -1,6 +1,5 @@
 #! /usr/bin/env -S node
 
-/* eslint-disable no-console */
 import * as bmd from '../lib/bmd.js';
 import fs from 'node:fs';
 import path from 'node:path';
