@@ -19,6 +19,8 @@ Last Updated: !{lastUpdate()}
 
 - [1d responses in SMP](smp-1d.htm)
 
+- [Baby Precsion](baby-precision.htm)
+
 ## Convention Cards
 
 - [Joe-Tim](Joe-Tim-Precision.pdf)
