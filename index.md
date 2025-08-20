@@ -26,3 +26,5 @@ Last Updated: !{lastUpdate()}
 - [Joe-Tim](Joe-Tim-Precision.pdf)
 
 - [Joe-Meg](ConventionCard-Joe_Meg.pdf)
+
+- [Joe-Sandy](ConventionCard-Joe_Sandy.pdf)
