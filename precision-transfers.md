@@ -115,6 +115,7 @@ Last Updated: 2025-01-05.
   3S splinter
   3N 13--15 3!h
   4CD splinter
+  4H! Either preempt or sub-slam strong hand
 1S 11--15, 5+!s
   1N 8--12, balanced, mostly-forcing one round
     2CD 3+!c/!d (often 3, sometimes 2)
@@ -128,6 +129,7 @@ Last Updated: 2025-01-05.
   3S 10--11 total points usually 4!s, invite
   3N 13--15 hcp 3!s
   4CDH splinter
+  4S! Either preempt or sub-slam strong hand
 1N  13--15, balanced (see [below](#nt-responses))
 2C!  11--15 HCP. 6+!c OR 5+!c and 4!h/!s [sim](https://hildjj.github.io/bridge-deal/?name=Precision+2C&stamp=1712616707124&code=eJzLyy8qyeBSUFA0NNY1NNVRSErMScxLTk0BChkagkVMnXUUTHwRfDNtZyAnKTNFwchZ0QoiqmCabOKrkF8EkgQAIQgSfw%3D%3D)
   2D!  11+ hcp, forcing one round [sim](https://hildjj.github.io/bridge-deal/?name=Precision+2C-2D&stamp=1712616489409&code=eJzLyy8qyeBSUFA0NNY1NNVRSErMScxLTk0BChkagkVMnXUUTHwRfDNtZyAnKTNFwchZ0QoiqmCabOKrkF8EluQCyQVwcRXnl4KNNjTUhmlwAWvQ1lFIyy9KzsxLV8jPS1Uoyi_NSwEAc8EhRQ%3D%3D)
@@ -173,7 +175,7 @@ Last Updated: 2025-01-05.
         3S 5S
         3N Flat, 9-11
       2HS 5 cards
-      2N! exactly 16, takes off game force
+      2N! exactly 16, no 4M, takes off game force
     2D! 12+, no 4M
       2HS 4 cards
       2N Asks for cuebids
