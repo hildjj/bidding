@@ -181,15 +181,17 @@ Last Updated: 2025-01-05.
       2N Asks for cuebids
       3X 5 cards
       3N 16-18 balanced
-    2H 12+, 4H
-    2S 12+, 4S
+    2H 12+, 4!H, <4!S
+    2S 12+, 4S, <4!H
+    2N 12+, 4!H and 4!S
     3C 12+, 5C good suit, otherwise prefer 2D
     3D 12+, 5D good suit, otherwise prefer 2D
     3H 12+, 5H
     3S 12+, 5S
-  2N! Exactly 16 balanced, takes off game force
-    3C! GF Puppet
-    4C Gerber
+  2N! 5-4+ in the minors
+    3m 3m
+    3M 5M
+    3N Major stoppers, minimum
   3N no 4M, 17-18
     4C Gerber
   4C Gerber
