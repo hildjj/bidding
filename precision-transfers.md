@@ -60,7 +60,7 @@ Last Updated: 2025-01-05.
       3N min
   2H 4-7, 6!H (like weak 2)
   2S 4-7, 6!S (like weak 2)
-  2N! GF 3-suiter (4441, 5440)
+  2N! GF 3-suiter (4441, 5440 with bad 5)
     3C! Asking for short suit
       3D! 0-1!D
       3H! 0-1!H
@@ -165,10 +165,10 @@ Last Updated: 2025-01-05.
 1S! 8+ HCP. Balanced, or semi-balanced with strength outside longer suits (e.g. 5m4M22)
   1N! asking info
     2C! 8-11
-      2D! Forcing Stayman
-        2H 4H, may have 4S
-        2S 4S, denies 4H
-        2N! Flat, exactly 8, takes off game force
+      2D! Stayman
+        2H! 4S, may have 4H
+        2S! 4H, denies 4S
+        2N! Flat, no 4M, exactly 8, takes off game force
         3C 5C, no 4M
         3D 5D, no 4M
         3H 5H
@@ -181,13 +181,19 @@ Last Updated: 2025-01-05.
       2N Asks for cuebids
       3X 5 cards
       3N 16-18 balanced
-    2H 12+, 4!H, <4!S
-    2S 12+, 4S, <4!H
+    2H! 12+, 4!S, <4!H
+    2S! 12+, 4!H, <4!S
     2N 12+, 4!H and 4!S
     3C 12+, 5C good suit, otherwise prefer 2D
     3D 12+, 5D good suit, otherwise prefer 2D
     3H 12+, 5H
     3S 12+, 5S
+  2X Sets trump.  Support-asking bid
+    1step!) 2-3 trump little (no honor)
+    2step!) Doubleton with honor
+    3step!) 3 with honor
+    4step!) 3 with 2 honors
+    5step!) 4+
   2N! 5-4+ in the minors
     3m 3m
     3M 5M
