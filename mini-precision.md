@@ -1,11 +1,11 @@
 ---
-title: Baby Precision (hildebrand-2025)
+title: Mini Precision (hildebrand-2025)
 author: Joe Hildebrand
 description: Limited tweaks to 2/1 to start learning precision
 github: hildjj/bidding
 ---
 
-# Baby Precision
+# Mini Precision
 
 This is the least amount of Precision that it's worth learning.  If no responses are specified, use what you're used to from 2/1.  For example, 1!h-P-2!c is game forcing.
 
