@@ -25,7 +25,7 @@ Last Updated: 2025-01-05.
       4step!) 6!s one of top three honors
       5step!) 6!s two of top three honors
       6step!) all three of top honors
-        NewSuit!) asking
+        NewSuit!) asking about that suit
           1step!) no control (xxx)
           2step!) 3rd round control (xx or Qxx)
           3step!) 2nd round control (x or Kx)
@@ -36,28 +36,40 @@ Last Updated: 2025-01-05.
               2step!) strength (or AK if 5 step)
             NewSuit!) asking
     1N prefer 3N to 4S
-      2X! slam interest, cue bid
-      2N! 11-13, no shortness
-      3X! shortness
+      2S 6+S, 8-10
+      2CDH! slam interest, cue bid
+      2N! 11+, no shortness
+      3S! 6+S, 11+, no shortness,
+      3CDH! shortness
       3N 8-10
+    2N! asks for shortness
+      3H! 11+, no shortness
+      3CDS! Shortness
+      3N! min, no shortness
     2* Natural
   1S! 8+ HCP. Balanced, or semi-balanced with strength outside longer suits (e.g. 5m4M22) (see [below](#1c-1s-responses))
   1N! 8+HCP, 5+ clubs, unsuitable for NT
     2C see 1C-1H
     2DHS natural
-    2N asks for shortness (must have, or NT would have been ok)
+    2N! asks for shortness (must have, or NT would have been ok)
+      3C! 11+, no shortness, 6+C
+      3DHS! Shortness
+      3N! min, no shortness, 6+C
+    3N stop
   2C! 8+HCP, 5+ diamonds
     2D see 1C-1H
     2HS natural
-    2N Forcing to 3N
-      3X Extra values, cue bid
-      3N min
+    2N! asks for shortness
+      3D! 11+, no shortness
+      3CHS! Shortness
+      3N! min, no shortness
   2D! 8+HCP, 5+H
-    2H! see 1C-1H
+    2H see 1C-1H
     2S natural
-    2N forcing to 3N
-      3X Extra values, cue bid
-      3N min
+    2N asks for shortness
+      3H! 11+, no shortness
+      3CDS! Shortness
+      3N! min, no shortness
   2H 4-7, 6!H (like weak 2)
   2S 4-7, 6!S (like weak 2)
   2N! GF 3-suiter (4441, 5440 with bad 5)
@@ -82,34 +94,18 @@ Last Updated: 2025-01-05.
 
 ## Limited Openings
 
-1D 11--15, 4+!d [sim](https://hildjj.github.io/bridge-deal/?name=Precision+1D&stamp=1712605379089&code=eJzLyy8qyeBSUFC0MXFR0NdXSMnPUy9RSEpVSFTISC3KB8mYaTvrKJiCZfMLUvMUjJxBoqYgURNfDFEPHQUPBTtbBYR6Qw-ITLCOQjCaTDBIxtBY19BURyEpMScxLzk1BSHrB5Q1NARKAumkzBQFQxcuAFC1KNE%3D)
-  1HS 8+, 4+!h/!s [sim](https://hildjj.github.io/bridge-deal/?name=Precision+1D-1M&stamp=1712605394510&code=eJxlzs8KgkAQBvD7PMUXCB3ckC0ND9pFD3spgn0CzQWF2A3_nKJ3b8coo04ffL9hZqzrx5aAVRaXiCI0zq5H1AYVWtM7ln1YCCSzupux2BbcJtzGx79WCSgccizzUr1EC-gf0Sxyt5GJQF1dK3sxzaInr1J69Fl3DWRJxHkmGtw0vx0MUzciB59IQ_8Q39dZrugL9Qc1vVcFd8YHPQFRrDww)
-  1N 8-10, balanced (often passed!) [sim](https://hildjj.github.io/bridge-deal/?name=Precision+1D-1N&stamp=1712605407535&code=eJxlzrEKwjAUBdA9X3GdHEypTxNxqC7tkMUi5AsSE2hBEqn1_00qEtDpwj33wQtxmgcGrBrRoa7hYljPsB4Gg59ilsOm5ZCLxocP2LW5lbkVl79WcSicTyh7Uh_RHPpHdBbaVyQ5rLmbcPOuaJ-UKGFKOzpQx1jOK2PP-FrePla0LaccjVD6u-7ZG8V4NMA%3D)
-  2C 11+hcp, 5+!c, no 4M, forcing one round [sim](https://hildjj.github.io/bridge-deal/?name=Precision+1D-2C&stamp=1712605420385&code=eJxljsEOgjAQRO_9ivHkgRpSLB6MeoFDLxgTvgBoFRKzayr8vy2YkOhpsvN2JkPsx14Am5MukaawTNsRrUOD3nmO5JAUEvlM-eUIWRHdPLq6-nONhMHljPVfmYXUEvUPqSNR-53KJdrm2VDn7EqvgSoVYNB2sFClEFFvQrx5WmbrpJo7dLI2zLFwh4nfZFYccWffDfQAk4Pniaz4AHX7PRM%3D)
-  2D! 11+ hcp, 3+!d, forcing one round [sim](https://hildjj.github.io/bridge-deal/?name=Precision+1D-2D&stamp=1712605445090&code=eJxlzrEOgjAUBdC9X3GdHFpDCsXBqAsdWDAmfAHQKiSmz1T4f1sgIdHppfe83jxHfuwZsDsrjSSBIbcf0Vo06K2nKEdeCOSz0ts6pEVM85iq6i8tBUpcL9j2ZblILVD_SB1FZgeZC7TNq3GdNZvegkoZMMx2MJCasTjvjH1oWs5WvFqvmasU34rm3-Gdcb0WpHp3woN8N7gnyFl4mpxhXzBUPkI%3D)
-    2HS 11-15, 6+!d-5M
-    2N 11-13, balanced-ish
-    3C 14-15, 5+!c
-    3D 14-15 5+!d
-    3HS splinter: 14-15, singleton/void
-    3N 14-15 4!d
-  2HS game forcing
-  2N 16+ hcp, balanced [sim](https://hildjj.github.io/bridge-deal/?name=Precision+1D-2N&stamp=1712605465213&code=eJxljrEKwjAURfd8xXVySKSkJh1EXdohS4uQL0hMoIIkUuv_m9hCoE4XzrnvcUOc5pEAu7PoUFVwMexnWA-D0U8xm4a2DPJn48sH1G2mMlPR_1HFoHC9oPS5Woxm0Bujs-HHA5cM1jxNuHtX7JAs50mmtA8H3hGS80bIO36W2YL265pcbmj5sx7Vw2nDv1ShOb0%3D)
-  3C forcing
-  3D weak, 5!d [sim](https://hildjj.github.io/bridge-deal/?name=Precision+1D-3D&stamp=1712605481951&code=eJxlzrEKwjAYBOA9T3GdHJJSYhNBUZdmyFIR-gSJDbQoidSKr2_SFgo6_XDfz3E-DGNHgOwoFIoCbfCbEdbBoHNDSLKjFYOcNDydx7ZKqUypqP9SzaBxPmH953qWhqH5kSYJL3MuGax5GH9z7aqXqJxHjNf2LbgiJN0rIa_wnmcLWi9rpipB16IYiHwfp1O1FJQqO-DjzJ18ASH_OWg%3D)
-  3HS splinter
-  3N 14-15 balanced, no 4M [sim](https://hildjj.github.io/bridge-deal/?name=Precision+1D-3N&stamp=1712605664217&code=eJxlzrEKwjAQBuA9T_E7OTRSYhMHUZd2yNIi5AkSE6ggidT6_uZsoWing__777iYhrFnwOYkG5QlfIrbES7Aog9DIjkUNYf6anqGiH1NqaJUtqtUc2hczlj6Qk9iOMyfGBJR7YTicPZh4y34RbusQmTM0909RMMYzStjr_Se3pZFO39DZflzaV6ruuNKPjUMOoo%3D)
-  4C splinter
+1D! 11--15, 2+!d, see [SMP 1D Responses](smp-1d.htm)
 1H 11--15, 5+!h
   1S 8+ hcp, 4+!s
-  1N 8--12, balanced, mostly-forcing one round, not 4!s
+  1N 8--12, balanced, semi-forcing one round, not 4!s
+    P 11--12, 5H 332
     2CD 3+!c/!d (often 3, sometimes 2)
     2H rebid: 6+!h, min
     2S reverse: max, 45xx
-    2N stop
+    2N! don't bid this.  Either you should have opened 1N, or pass here.
     3CD max, invites
     3H max, 6+!h
-  2H 8-10, 3!h
+  2H 6--9, 3!h
   2N Jacoby 2NT (see [below](#jacoby-2nt))
   3H 10--11 total points usually 4!h, invites
   3S splinter
@@ -117,14 +113,15 @@ Last Updated: 2025-01-05.
   4CD splinter
   4H! Either preempt or sub-slam strong hand
 1S 11--15, 5+!s
-  1N 8--12, balanced, mostly-forcing one round
+  1N 8--12, balanced, semi-forcing one round
+    P 11--12, 5S 332
     2CD 3+!c/!d (often 3, sometimes 2)
     2H 4+!h
     2S rebid: 6+!s, min
-    2N stop
+    2N! don't bid this.  Either you should have opened 1N, or pass here.
     3CDH max, invites
     3S max, 6+!s
-  2S 8--10, 3!s
+  2S 6--9, 3!s
   2N Jacoby 2NT (see [below](#jacoby-2nt))
   3S 10--11 total points usually 4!s, invite
   3N 13--15 hcp 3!s
@@ -147,7 +144,7 @@ Last Updated: 2025-01-05.
   2HS To play
   2N! Forcing (see [below](#2d-2n-forcing)) [sim](https://hildjj.github.io/bridge-deal/?name=Precision+2D-2N&stamp=1712606540135&code=eJw1jr0OgkAQhPt7irGw4gjZ42iM2kBhozGxsBYO4RJyS_gpfHv3SGg2uzP7TSbwtPQKOI7swzLjAquRaxgNEvmQ3-R8yZZlePulR8fs0AxrPeMTHDgMPxkt7F2DxzbAlJErSuFEKvfgK3LRiVIqNM6mEjuNjE2LCNTewVSH0_4x8dr1Em0tWaWi-1Rq5nUrS5TsyGNDEo0vT40P3dZF4OD-0wc4Hg%3D%3D)
   3C To play
-  3D Relay to 3N
+  3D! Relay to 3N
   3H Invite to 4H, promises 5H
   3S Invite to 4S, promises 5S
   3N To play
@@ -164,7 +161,7 @@ Last Updated: 2025-01-05.
 
 1S! 8+ HCP. Balanced, or semi-balanced with strength outside longer suits (e.g. 5m4M22)
   1N! asking info
-    2C! 8-11
+    2C! 8--11
       2D! Stayman
         2H! 4S, may have 4H
         2S! 4H, denies 4S
@@ -173,7 +170,7 @@ Last Updated: 2025-01-05.
         3D 5D, no 4M
         3H 5H
         3S 5S
-        3N Flat, 9-11
+        3N Flat, 9--11
       2HS 5 cards
       2N! exactly 16, no 4M, takes off game force
     2D! 12+, no 4M
@@ -198,7 +195,7 @@ Last Updated: 2025-01-05.
     3m 3m
     3M 5M
     3N Major stoppers, minimum
-  3N no 4M, 17-18
+  3N no 4M, 17--18
     4C Gerber
   4C Gerber
 
@@ -247,22 +244,22 @@ Last Updated: 2025-01-05.
 
 1HS-2N Game forcing, slam interest, no singleton/void, usually 4 card support
   3CD (or other major) 0-1 of bid suit
-  3HS (bid suit) 14-15, no shortness, no outside 5 card suit
+  3HS (bid suit) 14--15, no shortness, no outside 5 card suit
   3N 14-15, AKQ of suit
   4CD (or other major) 5+ cards in bid suit
-  4HS (bid suit) 11-13, no shortness, no outside 5 card suit
+  4HS (bid suit) 11--13, no shortness, no outside 5 card suit
 
 ## 2D-2N (forcing)
 
-3C! 11-13
+3C! 11--13
   3D! Shape?
     3H 3415
     3S 4315
     3N 4414 or 4405 (both)
-3D! 14-15, 4414
-3H! 14-15, 3415
-3S! 14-15, 4315
-3N! 14-15, 4405
+3D! 14--15, 4414
+3H! 14--15, 3415
+3S! 14--15, 4315
+3N! 14--15, 4405
 
 After any of these, responder bidding !d is a Control-Asking Bid
 ([responses](#cab-responses)).
@@ -284,10 +281,14 @@ Partner-(RHO)-?
 
 1N-(X) Moscow escapes (only over PENALTY doubles.  Systems on over artificial double.  This is effectively DONT, the other direction.)
   R ->2c one suited
-  2C !c and another
+  2C !c and a major
   2D !d and a major
   2H !h and !s
-  2S 5+!s, invitational
+  2S 5+!s, weaker than X-2C-2S
+  2N !c and !d
+1N-(X) Not for penalty
+  XX We're either going to play 3N or double them
+  other) Systems on
 1N-(2C) No matter what it means
   X Stayman
   * Systems on
@@ -313,13 +314,11 @@ Good players who are prepared will often find an excuse to bid over 1C, even wit
 1C!-(1D) No matter what 1D means
   P! 0-4, systems on as if 1C-(P)-1D, but not forcing
   X! 5-8, systems on as if 1C-(P)-1D (or 9-10 balanced no stopper, or 9+ 4441 impossible negative)
-  1N 8-10, stopper in one of their suits, if suit(s) were implied.  If no stopper, double.
-  2N 11-13 or 16+ as usual.  Nothing specific about stoppers, because points.
-  * Everything else, systems on, but with 9+
+  *) Systems on.
 
 1C-(1H->2S) Effective interference!
   P! 0-4 hcp
-  D 5-8 hcp, no 5 card suit or 9+ hcp
+  D 5-8 hcp, no 5 card suit or 9+ balanced, no stopper
   minX) 5-8 hcp 5+X
   jumpX) 9+ hcp 5+X
   minN) 6-8, balanced, stopper
@@ -379,33 +378,12 @@ Over 1!c, shift all of the responses down.
 (1N)-2N Minors, weak
 (1N)-3X pre-emptive, 7+X
 
-Over interference:
+Over interference with DONT:
 
 (1N)-X-(XX) This is usually either strong (with strong NT) or escape (with weak)
   P feel free to bid your suit next
   X Natural
 (1N)-X-(2*) Usually systems-on
-  D (of a natural bid) bid your other suit
+  D (of a natural bid) bid your suit (assuming it's not theirs), I'm balanced
   D (of an artificial bid) lead directing
   X Natural
-
-When used against us:
-
-1N-(X) We get extra information
-  XX headed for 3N, but let's see if we can get a penalty
-  others) systems on
-1N-(2C) If 2C isn't both majors
-  X stayman
-  others) systems on
-1N-(2D) Unless it means hearts
-  X ->!h
-  2H ->!s
-  2N 4-way Stayman
-    3C 5!c
-    3D 5!d
-    3H 4!h
-    3S 4!s
-    3N None of the above
-1N-(2M) treat as single-suit overcall
-  X penalty
-  others) natural
