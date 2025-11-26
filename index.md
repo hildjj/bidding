@@ -19,7 +19,7 @@ Last Updated: !{lastUpdate()}
 
 - [1d responses in SMP](smp-1d.htm)
 
-- [Baby Precsion](baby-precision.htm)
+- [Mini Precsion](mini-precision.htm)
 
 ## Convention Cards
 
