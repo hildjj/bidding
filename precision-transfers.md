@@ -109,7 +109,7 @@ Last Updated: 2025-01-05.
   2N Jacoby 2NT (see [below](#jacoby-2nt))
   3H 10--11 total points usually 4!h, invites
   3S splinter
-  3N 13--15 3!h
+  3N 13--15 2!h
   4CD splinter
   4H! Either preempt or sub-slam strong hand
 1S 11--15, 5+!s
@@ -124,7 +124,7 @@ Last Updated: 2025-01-05.
   2S 6--9, 3!s
   2N Jacoby 2NT (see [below](#jacoby-2nt))
   3S 10--11 total points usually 4!s, invite
-  3N 13--15 hcp 3!s
+  3N 13--15 hcp 2!s
   4CDH splinter
   4S! Either preempt or sub-slam strong hand
 1N  13--15, balanced (see [below](#nt-responses))
