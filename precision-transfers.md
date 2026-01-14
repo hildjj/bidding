@@ -202,36 +202,71 @@ Last Updated: 2025-01-05.
 ## NT responses
 
 1N 13--15, balanced
-  2C Stayman
-    2H 4h, might have 4s
-      2S! 5+!s,4!h invitational
-      2N 4!s, invitational
+  2C! Puppet Stayman.  Invite+, no 5+M, no 6+m, not 4441, not 5440, may not have 4M
+    2D! 1-2 4M, no 5M
+      2H! 4!s, <4!h
+      2S! 4!h, <4!s
+      2N! No 4M, min invite
+      3C! Both, GF
+      3D! Both, invite
+      3H! 4!s, <4!h GF
+      3S! 4!h, <4!s GF
+      3N To play
+    2H! 5H
+      2S slam interest, control
+      2N Invite 3N
+      3CD slam interest, control
+      3H Invite to 4!h
+      3S! splinter
+      3N to play
+      4CD! splinter
+      4H to play
+      4N RKC !h
+    2S! 5S
+      2N Invite 3N
+      3CDH slam interest, control
+      3S Invite
+      3N to play
+      4CDH splinter
+      4S to play
+      4N RKC !s
+    2N! no 4M, min
+      3X slam interest, control
+      3N to play
+      4C Gerber
+    3C 5!c332, max
+    3D 5!d332, max
+    3N! no 4M, no 5m, max
+      4C Gerber
   2D ->2!h
     4N quantitative
   2H ->2!s
     4N quantitative
-  2S! Range ask.  One of (10-11 balanced, 6+c weak, 6+c invitational+)
-    2N! min
-      3C for goodness sake stop here
-    3C! max
-      3DHS! (after either) shortness in the bid suit.  6+c.  Game force or better.
+  2S! 6+!c, either to play or slam interest if bidding continues
+    2N! Two small clubs
+      3C STOP
+      *) See 3!c responsese below
+    3C! Average+ !c (at least Kx or xxx)
+      3DHS! shortness in the bid suit.  6+c.  Game force or better.
       3N to play
       4C invite for 5!c
       4DHS 4+, slam try
-      4N quantitative for 5!c/6!c/6N
-      5N quantitative for 6!c/6N/7!c/7N
+      4N! quantitative for 5!c/6!c/6N
+      5N! quantitative for 6!c/6N/7!c/7N
   2N! 6+!d, either to play or slam interest if bidding continues
-    3C! Good !d suit
-      3D for goodness sake stop here
-    3D! Average- !d
-      3HS (after either) shortness, game force
-      3N (after either) to play
-      4C (after either) shortness, game force
-      4D (after either) invite to 5!d
-      4HS (after either) 4+, slam try
-      4N (after either) quantitative for 5!d/6!d/6N
-      5N (after either) quantitative for 6!d/6N/7!d/7N
+    3C! two small !d
+      3D STOP
+      *) See 3!d responses below
+    3D! Average+ !d (at least Kx or xxx)
+      3HS! shortness, game force
+      3N to play
+      4C! shortness, game force
+      4D invite to 5!d
+      4HS 4+, slam try
+      4N! quantitative for 5!d/6!d/6N
+      5N! quantitative for 6!d/6N/7!d/7N
   3X! splinter, game forcing
+    4shortSuit!) Control-asking
   3N 11+ balanced no slam
   4C Gerber
     4D 0 or 4 aces
